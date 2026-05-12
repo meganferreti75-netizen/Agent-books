@@ -3819,6 +3819,54 @@
     {
       "nombre": "Rainbow metric formalism and Relative Locality",
       "link": "http://arxiv.org/abs/1501.03698v1"
+    },
+    {
+      "nombre": "The local quantization behavior of absolutely continuous probabilities",
+      "link": "http://arxiv.org/abs/1009.5093v2"
+    },
+    {
+      "nombre": "Uniquely determined uniform probability on the natural numbers",
+      "link": "http://arxiv.org/abs/1402.3999v3"
+    },
+    {
+      "nombre": "Analytic crossing probabilities for certain barriers by Brownian motion",
+      "link": "http://arxiv.org/abs/0704.2826v2"
+    },
+    {
+      "nombre": "Probabilities of randomly centered small balls and quantization in Banach spaces",
+      "link": "http://arxiv.org/abs/math/0402220v2"
+    },
+    {
+      "nombre": "Moderate deviation probabilities for open convex sets: nonlogarithmic behavior",
+      "link": "http://arxiv.org/abs/math/0410139v1"
+    },
+    {
+      "nombre": "Ruin Probabilities and Overshoots for General Levy Insurance Risk Processes",
+      "link": "http://arxiv.org/abs/math/0503539v1"
+    },
+    {
+      "nombre": "A sequential Monte Carlo approach to computing tail probabilities in stochastic models",
+      "link": "http://arxiv.org/abs/1202.4582v1"
+    },
+    {
+      "nombre": "Algebraic groups in non-commutative probability theory revisited",
+      "link": "http://arxiv.org/abs/2208.02585v2"
+    },
+    {
+      "nombre": "Efficient importance sampling for Monte Carlo evaluation of exceedance probabilities",
+      "link": "http://arxiv.org/abs/math/0703910v1"
+    },
+    {
+      "nombre": "Neighbor selection and hitting probability in small-world graphs",
+      "link": "http://arxiv.org/abs/math/0702325v2"
+    },
+    {
+      "nombre": "Algebraic methods toward higher-order probability inequalities, II",
+      "link": "http://arxiv.org/abs/math/0410155v1"
+    },
+    {
+      "nombre": "Maxima of asymptotically Gaussian random fields and moderate deviation approximations to boundary crossing probabilities of sums of random variables with multidimensional indices",
+      "link": "http://arxiv.org/abs/math/0412428v2"
     }
   ],
   "fisica": [
@@ -4829,6 +4877,38 @@
     }
   ],
   "estadistica": [
+    {
+      "nombre": "Splitting of liftings in products of probability spaces",
+      "link": "http://arxiv.org/abs/math/0509010v1"
+    },
+    {
+      "nombre": "Optimal stopping under probability distortion",
+      "link": "http://arxiv.org/abs/1103.1755v2"
+    },
+    {
+      "nombre": "What is the probability of intersecting the set of Brownian double points?",
+      "link": "http://arxiv.org/abs/math/0404105v3"
+    },
+    {
+      "nombre": "The critical probability for random Voronoi percolation in the plane is 1/2",
+      "link": "http://arxiv.org/abs/math/0410336v2"
+    },
+    {
+      "nombre": "Asymptotics of the probability minimizing a \"down-side\" risk",
+      "link": "http://arxiv.org/abs/1001.2131v1"
+    },
+    {
+      "nombre": "Orthogonal polynomial ensembles in probability theory",
+      "link": "http://arxiv.org/abs/math/0403090v3"
+    },
+    {
+      "nombre": "Outperforming the market portfolio with a given probability",
+      "link": "http://arxiv.org/abs/1006.3224v6"
+    },
+    {
+      "nombre": "Backward stochastic dynamics on a filtered probability space",
+      "link": "http://arxiv.org/abs/0904.0377v4"
+    },
     {
       "nombre": "Splitting of liftings in products of probability spaces",
       "link": "http://arxiv.org/abs/math/0509010v1"
