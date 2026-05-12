@@ -1619,6 +1619,86 @@
     {
       "nombre": "Enriched Reedy categories",
       "link": "http://arxiv.org/abs/math/0612137v2"
+    },
+    {
+      "nombre": "On the solution existence and stability of polynomial optimization problems",
+      "link": "http://arxiv.org/abs/1808.06100v6"
+    },
+    {
+      "nombre": "Optimal design of frame structures with mixed categorical and continuous design variables using the Gumbel-Softmax method",
+      "link": "http://arxiv.org/abs/2501.00258v1"
+    },
+    {
+      "nombre": "Two-Scale Optimization of Graded Lattice Structures respecting Buckling on Micro- and Macroscale",
+      "link": "http://arxiv.org/abs/2303.08710v1"
+    },
+    {
+      "nombre": "An efficient and easy-to-extend Matlab code of the Moving Morphable Component (MMC) method for three-dimensional topology optimization",
+      "link": "http://arxiv.org/abs/2201.02491v3"
+    },
+    {
+      "nombre": "Stochastic (Approximate) Proximal Point Methods: Convergence, Optimality, and Adaptivity",
+      "link": "http://arxiv.org/abs/1810.05633v2"
+    },
+    {
+      "nombre": "Conic-Optimization Based Algorithms for Nonnegative Matrix Factorization",
+      "link": "http://arxiv.org/abs/2105.13646v3"
+    },
+    {
+      "nombre": "Survey Descent: A Multipoint Generalization of Gradient Descent for Nonsmooth Optimization",
+      "link": "http://arxiv.org/abs/2111.15645v5"
+    },
+    {
+      "nombre": "Convergence Results for Optimal Control Problems Governed by Elliptic Quasivariational Inequalities",
+      "link": "http://arxiv.org/abs/2005.11788v1"
+    },
+    {
+      "nombre": "L1 penalization of volumetric dose objectives in optimal control of PDEs",
+      "link": "http://arxiv.org/abs/1607.01655v3"
+    },
+    {
+      "nombre": "A Smooth Primal-Dual Optimization Framework for Nonsmooth Composite Convex Minimization",
+      "link": "http://arxiv.org/abs/1507.06243v7"
+    },
+    {
+      "nombre": "Examples of inconsistency in optimization by expected improvement",
+      "link": "http://arxiv.org/abs/1109.1320v2"
+    },
+    {
+      "nombre": "Accelerated Particle Swarm Optimization and Support Vector Machine for Business Optimization and Applications",
+      "link": "http://arxiv.org/abs/1203.6577v1"
+    },
+    {
+      "nombre": "Piecewise SOS-Convex Moment Optimization and Applications via Exact Semi-Definite Programs",
+      "link": "http://arxiv.org/abs/2402.07064v6"
+    },
+    {
+      "nombre": "Optimal control for a nonlinear stochastic PDE model of cancer growth",
+      "link": "http://arxiv.org/abs/2307.09574v1"
+    },
+    {
+      "nombre": "On the Robust Optimal Stopping Problem",
+      "link": "http://arxiv.org/abs/1301.0091v10"
+    },
+    {
+      "nombre": "A Necessary Optimality Condition for Extended Weighted Generalized Fractional Optimal Control Problems",
+      "link": "http://arxiv.org/abs/2312.10086v1"
+    },
+    {
+      "nombre": "Optimal control of a heroin epidemic mathematical model",
+      "link": "http://arxiv.org/abs/2111.05906v1"
+    },
+    {
+      "nombre": "Combinatorial Optimization with Quantum Computers",
+      "link": "http://arxiv.org/abs/2412.15778v2"
+    },
+    {
+      "nombre": "Augmented Lagrangian Functions for Cone Constrained Optimization: the Existence of Global Saddle Points and Exact Penalty Property",
+      "link": "http://arxiv.org/abs/1707.05747v6"
+    },
+    {
+      "nombre": "Portfolio Optimization under Shortfall Risk Constraint",
+      "link": "http://arxiv.org/abs/1501.07480v4"
     }
   ],
   "fisica": [
