@@ -923,6 +923,86 @@
     {
       "nombre": "Graph Rewriting and Relabeling with PBPO+",
       "link": "http://arxiv.org/abs/2010.08230v3"
+    },
+    {
+      "nombre": "A characterization of the martingale property of exponentially affine processes",
+      "link": "http://arxiv.org/abs/0910.3632v3"
+    },
+    {
+      "nombre": "A stochastic diffusion process for the Dirichlet distribution",
+      "link": "http://arxiv.org/abs/1303.0217v2"
+    },
+    {
+      "nombre": "Weak Dirichlet processes with a stochastic control perspective",
+      "link": "http://arxiv.org/abs/math/0604326v1"
+    },
+    {
+      "nombre": "Dual process in the two-parameter Poisson-Dirichlet diffusion",
+      "link": "http://arxiv.org/abs/2102.08520v6"
+    },
+    {
+      "nombre": "Stochastic PDEs with heavy-tailed noise",
+      "link": "http://arxiv.org/abs/1602.00257v2"
+    },
+    {
+      "nombre": "Exact variations for stochastic heat equations driven by space--time white noise",
+      "link": "http://arxiv.org/abs/math/0411552v1"
+    },
+    {
+      "nombre": "Adaptive nonparametric estimation for Lévy processes observed at low frequency",
+      "link": "http://arxiv.org/abs/1308.6394v1"
+    },
+    {
+      "nombre": "On a stochastic differential equation arising in a price impact model",
+      "link": "http://arxiv.org/abs/1110.3250v5"
+    },
+    {
+      "nombre": "Stochastic solutions of Stefan problems",
+      "link": "http://arxiv.org/abs/2006.04939v2"
+    },
+    {
+      "nombre": "Stochastic inequalities for single-server loss queueing systems",
+      "link": "http://arxiv.org/abs/math/0505068v5"
+    },
+    {
+      "nombre": "On strong solutions for positive definite jump-diffusions",
+      "link": "http://arxiv.org/abs/0910.1784v5"
+    },
+    {
+      "nombre": "Affine processes on positive semidefinite d x d matrices have jumps of finite variation in dimension d > 1",
+      "link": "http://arxiv.org/abs/1104.0784v4"
+    },
+    {
+      "nombre": "Solutions of kinetic-type equations with perturbed collisions",
+      "link": "http://arxiv.org/abs/2208.09498v3"
+    },
+    {
+      "nombre": "Efficient estimation of stable Levy process with symmetric jumps",
+      "link": "http://arxiv.org/abs/1805.08926v3"
+    },
+    {
+      "nombre": "Poisson point process convergence and extreme values in stochastic geometry",
+      "link": "http://arxiv.org/abs/1510.00289v1"
+    },
+    {
+      "nombre": "Limit theorems, scaling of moments and intermittency for integrated finite variance supOU processes",
+      "link": "http://arxiv.org/abs/1711.09623v2"
+    },
+    {
+      "nombre": "First exit times of solutions of non-linear stochastic differential equations driven by symmetric Levy processes with alpha-stable components",
+      "link": "http://arxiv.org/abs/math/0409246v2"
+    },
+    {
+      "nombre": "MEXIT: Maximal un-coupling times for stochastic processes",
+      "link": "http://arxiv.org/abs/1702.03917v4"
+    },
+    {
+      "nombre": "Empirical Processes of Multidimensional Systems with Multiple Mixing Properties",
+      "link": "http://arxiv.org/abs/1004.1088v2"
+    },
+    {
+      "nombre": "Inferring birth versus death dynamics for ecological interactions in stochastic heterogeneous populations",
+      "link": "http://arxiv.org/abs/2410.09041v3"
     }
   ],
   "fisica": [
