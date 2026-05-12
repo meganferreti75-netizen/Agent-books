@@ -2767,6 +2767,82 @@
     {
       "nombre": "Witten's conjecture and Property P",
       "link": "http://arxiv.org/abs/math/0311489v5"
+    },
+    {
+      "nombre": "Towards semi-classical analysis for sub-elliptic operators",
+      "link": "http://arxiv.org/abs/2111.09854v1"
+    },
+    {
+      "nombre": "D0 Regional Analysis Center Concepts",
+      "link": "http://arxiv.org/abs/cs/0306115v1"
+    },
+    {
+      "nombre": "OSIRIS-REx Sample Analysis Plan -- Revision 3.0",
+      "link": "http://arxiv.org/abs/2308.11794v1"
+    },
+    {
+      "nombre": "Asymptotic analysis and diffusion limit of the Persistent Turning Walker Model",
+      "link": "http://arxiv.org/abs/0811.0600v2"
+    },
+    {
+      "nombre": "Convergence analysis of Strang splitting for Vlasov-type equations",
+      "link": "http://arxiv.org/abs/1207.2090v2"
+    },
+    {
+      "nombre": "Approaches to analysis with infinitesimals following Robinson, Nelson, and others",
+      "link": "http://arxiv.org/abs/1703.00425v1"
+    },
+    {
+      "nombre": "Structural analysis of an $L$-infinity variational problem and relations to distance functions",
+      "link": "http://arxiv.org/abs/2001.07411v2"
+    },
+    {
+      "nombre": "Convergence analysis of a discontinuous Galerkin/Strang splitting approximation for the Vlasov--Poisson equations",
+      "link": "http://arxiv.org/abs/1211.2353v1"
+    },
+    {
+      "nombre": "Lie symmetry analysis and similarity solutions for the Camassa-Choi equations",
+      "link": "http://arxiv.org/abs/2101.11843v1"
+    },
+    {
+      "nombre": "Smooth solutions of the Euler and Navier-Stokes equations from the a posteriori analysis of approximate solutions",
+      "link": "http://arxiv.org/abs/1405.3421v4"
+    },
+    {
+      "nombre": "How Many Genes Are Needed for a Discriminant Microarray Data Analysis ?",
+      "link": "http://arxiv.org/abs/physics/0104029v1"
+    },
+    {
+      "nombre": "A Posteriori Error Analysis for the Optimal Control of Magneto-Static Fields",
+      "link": "http://arxiv.org/abs/1607.04745v1"
+    },
+    {
+      "nombre": "An invitation to harmonic analysis associated with semigroups of operators",
+      "link": "http://arxiv.org/abs/1304.4922v1"
+    },
+    {
+      "nombre": "Reduced-Rank Tensor-on-Tensor Regression and Tensor-variate Analysis of Variance",
+      "link": "http://arxiv.org/abs/2012.10249v5"
+    },
+    {
+      "nombre": "Principal Component Analysis Using Structural Similarity Index for Images",
+      "link": "http://arxiv.org/abs/1908.09287v1"
+    },
+    {
+      "nombre": "Sensitivity and specificity of a Bayesian single trial analysis for time varying neural signals",
+      "link": "http://arxiv.org/abs/2001.11582v1"
+    },
+    {
+      "nombre": "Video-based Analysis of Soccer Matches",
+      "link": "http://arxiv.org/abs/2105.04875v1"
+    },
+    {
+      "nombre": "Almost analytic extensions of ultradifferentiable functions with applications to microlocal analysis",
+      "link": "http://arxiv.org/abs/1904.07634v3"
+    },
+    {
+      "nombre": "A randomized algorithm for principal component analysis",
+      "link": "http://arxiv.org/abs/0809.2274v4"
     }
   ],
   "fisica": [
@@ -3223,6 +3299,10 @@
     {
       "nombre": "Tracing the Physical Conditions in Active Galactic Nuclei with Time-Dependent Chemistry",
       "link": "http://arxiv.org/abs/1306.2488v1"
+    },
+    {
+      "nombre": "Positivity-Preserving Analysis of Numerical Schemes for Ideal Magnetohydrodynamics",
+      "link": "http://arxiv.org/abs/1802.02278v2"
     }
   ],
   "biologia": [
