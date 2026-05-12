@@ -963,6 +963,26 @@
     {
       "nombre": "Maxima of asymptotically Gaussian random fields and moderate deviation approximations to boundary crossing probabilities of sums of random variables with multidimensional indices",
       "link": "http://arxiv.org/abs/math/0412428v2"
+    },
+    {
+      "nombre": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
+      "link": "http://arxiv.org/abs/2110.01831v1"
+    },
+    {
+      "nombre": "Compression, The Fermi Paradox and Artificial Super-Intelligence",
+      "link": "http://arxiv.org/abs/2110.01835v1"
+    },
+    {
+      "nombre": "Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework",
+      "link": "http://arxiv.org/abs/2204.10358v1"
+    },
+    {
+      "nombre": "Modeling Belief in Dynamic Systems, Part II: Revision and Update",
+      "link": "http://arxiv.org/abs/cs/9903016v1"
+    },
+    {
+      "nombre": "Intelligent behavior depends on the ecological niche: Scaling up AI to human-like intelligence in socio-cultural environments",
+      "link": "http://arxiv.org/abs/2103.06769v1"
     }
   ],
   "fisica": [
@@ -1173,12 +1193,73 @@
     {
       "nombre": "BioPreDyn-bench: benchmark problems for kinetic modelling in systems biology",
       "link": "http://arxiv.org/abs/1407.5856v1"
+    },
+    {
+      "nombre": "Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence",
+      "link": "http://arxiv.org/abs/2104.13155v2"
+    },
+    {
+      "nombre": "From Statistical Relational to Neurosymbolic Artificial Intelligence: a Survey",
+      "link": "http://arxiv.org/abs/2108.11451v4"
     }
   ],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
-  "cs": [],
+  "cs": [
+    {
+      "nombre": "A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?",
+      "link": "http://arxiv.org/abs/2304.04780v1"
+    },
+    {
+      "nombre": "Artificial Intelligence Framework for Simulating Clinical Decision-Making: A Markov Decision Process Approach",
+      "link": "http://arxiv.org/abs/1301.2158v1"
+    },
+    {
+      "nombre": "Study on the Helpfulness of Explainable Artificial Intelligence",
+      "link": "http://arxiv.org/abs/2410.11896v1"
+    },
+    {
+      "nombre": "Games for Artificial Intelligence Research: A Review and Perspectives",
+      "link": "http://arxiv.org/abs/2304.13269v4"
+    },
+    {
+      "nombre": "Artificial Intelligence and Economic Theories",
+      "link": "http://arxiv.org/abs/1703.06597v1"
+    },
+    {
+      "nombre": "Linking Artificial Intelligence Principles",
+      "link": "http://arxiv.org/abs/1812.04814v1"
+    },
+    {
+      "nombre": "Probability Judgement in Artificial Intelligence",
+      "link": "http://arxiv.org/abs/1304.3429v1"
+    },
+    {
+      "nombre": "AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence",
+      "link": "http://arxiv.org/abs/1903.02172v1"
+    },
+    {
+      "nombre": "Death and Suicide in Universal Artificial Intelligence",
+      "link": "http://arxiv.org/abs/1606.00652v1"
+    },
+    {
+      "nombre": "Modular Belief Updates and Confusion about Measures of Certainty in Artificial Intelligence Research",
+      "link": "http://arxiv.org/abs/1407.7281v1"
+    },
+    {
+      "nombre": "Augmented Computational Design: Methodical Application of Artificial Intelligence in Generative Design",
+      "link": "http://arxiv.org/abs/2310.09243v1"
+    },
+    {
+      "nombre": "Bias Amplification in Artificial Intelligence Systems",
+      "link": "http://arxiv.org/abs/1809.07842v1"
+    },
+    {
+      "nombre": "Human-in-the-loop Artificial Intelligence",
+      "link": "http://arxiv.org/abs/1710.08191v1"
+    }
+  ],
   "estadistica": [
     {
       "nombre": "Splitting of liftings in products of probability spaces",
