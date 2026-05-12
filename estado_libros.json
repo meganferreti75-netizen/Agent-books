@@ -801,10 +801,91 @@
     {
       "nombre": "Chern--Simons Terms as an Example of the Relations Between Mathematics and Physics",
       "link": "http://arxiv.org/abs/math-ph/9805020v2"
+    },
+    {
+      "nombre": "From Physics to Biology by Extending Criticality and Symmetry Breakings",
+      "link": "http://arxiv.org/abs/1103.1833v2"
+    },
+    {
+      "nombre": "Perspectives on theory at the interface of physics and biology",
+      "link": "http://arxiv.org/abs/1512.08954v1"
+    },
+    {
+      "nombre": "Physics of liquid crystals in cell biology",
+      "link": "http://arxiv.org/abs/2110.03207v1"
+    },
+    {
+      "nombre": "Biology and Physics",
+      "link": "http://arxiv.org/abs/2603.11234v2"
     }
   ],
   "quimica": [],
-  "biologia": [],
+  "biologia": [
+    {
+      "nombre": "Bayesian uncertainty analysis for complex systems biology models: emulation, global parameter searches and evaluation of gene functions",
+      "link": "http://arxiv.org/abs/1607.06358v2"
+    },
+    {
+      "nombre": "The use of information theory in evolutionary biology",
+      "link": "http://arxiv.org/abs/1112.3867v1"
+    },
+    {
+      "nombre": "Methods of Information Theory and Algorithmic Complexity for Network Biology",
+      "link": "http://arxiv.org/abs/1401.3604v7"
+    },
+    {
+      "nombre": "Universally Sloppy Parameter Sensitivities in Systems Biology",
+      "link": "http://arxiv.org/abs/q-bio/0701039v3"
+    },
+    {
+      "nombre": "Functional Synthetic Biology",
+      "link": "http://arxiv.org/abs/2207.00538v1"
+    },
+    {
+      "nombre": "Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows",
+      "link": "http://arxiv.org/abs/2312.02391v1"
+    },
+    {
+      "nombre": "Virtual-organism toy-model as a tool to develop bioinformatics approaches of Systems Biology for medical-target discovery",
+      "link": "http://arxiv.org/abs/1301.2528v1"
+    },
+    {
+      "nombre": "Blind source separation methods for deconvolution of complex signals in cancer biology",
+      "link": "http://arxiv.org/abs/1301.2634v1"
+    },
+    {
+      "nombre": "Bayesian Parameter Estimation for Dynamical Models in Systems Biology",
+      "link": "http://arxiv.org/abs/2204.05415v3"
+    },
+    {
+      "nombre": "Synthetic Biology in Leishmaniasis: Design,simulation and validation of constructed Genetic circuit",
+      "link": "http://arxiv.org/abs/1304.0342v1"
+    },
+    {
+      "nombre": "Integration of Omics Data and Systems Biology Modeling: Effect of Cyclosporine A on the Nrf2 Pathway in Human Renal Kidneys Cells",
+      "link": "http://arxiv.org/abs/1312.4744v1"
+    },
+    {
+      "nombre": "TEDDY: A Family Of Foundation Models For Understanding Single Cell Biology",
+      "link": "http://arxiv.org/abs/2503.03485v2"
+    },
+    {
+      "nombre": "Toward a general theory for the universality and scaling in critical thermal responses in biology",
+      "link": "http://arxiv.org/abs/2503.05128v2"
+    },
+    {
+      "nombre": "A systems biology approach to COVID-19 progression in a population",
+      "link": "http://arxiv.org/abs/2005.09630v3"
+    },
+    {
+      "nombre": "For principled model fitting in mathematical biology",
+      "link": "http://arxiv.org/abs/1404.5324v1"
+    },
+    {
+      "nombre": "BioPreDyn-bench: benchmark problems for kinetic modelling in systems biology",
+      "link": "http://arxiv.org/abs/1407.5856v1"
+    }
+  ],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
