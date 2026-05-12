@@ -1445,9 +1445,89 @@
     {
       "nombre": "Physics and Chemistry on the Surface of Cosmic Dust Grains: A Laboratory View",
       "link": "http://arxiv.org/abs/2105.01387v1"
+    },
+    {
+      "nombre": "Physics and Chemistry on the Surface of Cosmic Dust Grains: A Laboratory View",
+      "link": "http://arxiv.org/abs/2105.01387v1"
     }
   ],
   "quimica": [
+    {
+      "nombre": "Guest Editorial: Special Topic on Data-enabled Theoretical Chemistry",
+      "link": "http://arxiv.org/abs/1806.02690v2"
+    },
+    {
+      "nombre": "ChemPro: A Progressive Chemistry Benchmark for Large Language Models",
+      "link": "http://arxiv.org/abs/2602.03108v4"
+    },
+    {
+      "nombre": "Evaluating Large Language Models on Multimodal Chemistry Olympiad Exams",
+      "link": "http://arxiv.org/abs/2512.14989v1"
+    },
+    {
+      "nombre": "Coherent view of crystal chemistry and ab initio analyses of Pb(II) and Bi(III) Lone Pair in square planar coordination",
+      "link": "http://arxiv.org/abs/1412.6636v2"
+    },
+    {
+      "nombre": "Crystal Structure and Chemistry of Topological Insulators",
+      "link": "http://arxiv.org/abs/1302.1059v1"
+    },
+    {
+      "nombre": "Three-body recombination in physical chemistry",
+      "link": "http://arxiv.org/abs/2304.05272v1"
+    },
+    {
+      "nombre": "Aromatics and Cyclic Molecules in Molecular Clouds: A New Dimension of Interstellar Organic Chemistry",
+      "link": "http://arxiv.org/abs/2103.09608v1"
+    },
+    {
+      "nombre": "ChemToolAgent: The Impact of Tools on Language Agents for Chemistry Problem Solving",
+      "link": "http://arxiv.org/abs/2411.07228v3"
+    },
+    {
+      "nombre": "Carbon Chemistry in interstellar clouds",
+      "link": "http://arxiv.org/abs/astro-ph/0212058v1"
+    },
+    {
+      "nombre": "Bimolecular chemistry in the ultracold regime",
+      "link": "http://arxiv.org/abs/2107.01088v1"
+    },
+    {
+      "nombre": "A robust, open-source implementation of the locally optimal block preconditioned conjugate gradient for large eigenvalue problems in quantum chemistry",
+      "link": "http://arxiv.org/abs/2305.06668v1"
+    },
+    {
+      "nombre": "Titan Atmospheric Chemistry Revealed by Low-temperature N2-CH4 Plasma Discharge Experiments",
+      "link": "http://arxiv.org/abs/2209.11264v1"
+    },
+    {
+      "nombre": "The Chemistry of Dark Clouds: New Astrochemical Tools for Star Formation Studies",
+      "link": "http://arxiv.org/abs/astro-ph/0211576v1"
+    },
+    {
+      "nombre": "Chemception: A Deep Neural Network with Minimal Chemistry Knowledge Matches the Performance of Expert-developed QSAR/QSPR Models",
+      "link": "http://arxiv.org/abs/1706.06689v1"
+    },
+    {
+      "nombre": "Influence of Pore Surface Chemistry on the Rotational Dynamics of Nanoconfined Water",
+      "link": "http://arxiv.org/abs/2107.12798v1"
+    },
+    {
+      "nombre": "Ortho-Para Chemistry of H2CO in the Protoplanetary Disk TW Hya",
+      "link": "http://arxiv.org/abs/2603.13172v1"
+    },
+    {
+      "nombre": "Radiation Chemistry of Organic Liquids: Saturated Hydrocarbons",
+      "link": "http://arxiv.org/abs/physics/0405014v1"
+    },
+    {
+      "nombre": "Extragalactic chemistry of molecular gas: lessons from the local universe",
+      "link": "http://arxiv.org/abs/astro-ph/0605623v1"
+    },
+    {
+      "nombre": "Tracing the Physical Conditions in Active Galactic Nuclei with Time-Dependent Chemistry",
+      "link": "http://arxiv.org/abs/1306.2488v1"
+    },
     {
       "nombre": "Guest Editorial: Special Topic on Data-enabled Theoretical Chemistry",
       "link": "http://arxiv.org/abs/1806.02690v2"
