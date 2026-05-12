@@ -2151,6 +2151,54 @@
     {
       "nombre": "Physicists, Non Physical Topics, and Interdisciplinarity",
       "link": "http://arxiv.org/abs/2210.13254v1"
+    },
+    {
+      "nombre": "Statistical and computational trade-offs in estimation of sparse principal components",
+      "link": "http://arxiv.org/abs/1408.5369v2"
+    },
+    {
+      "nombre": "Rejoinder to \"Equi-energy sampler with applications in statistical inference and statistical mechanics\"",
+      "link": "http://arxiv.org/abs/math/0611224v1"
+    },
+    {
+      "nombre": "Statistical inference for time-changed Lévy processes via composite characteristic function estimation",
+      "link": "http://arxiv.org/abs/1003.0275v3"
+    },
+    {
+      "nombre": "A Commentary on Statistical Assessment of Violence Recidivism Risk",
+      "link": "http://arxiv.org/abs/1503.03666v1"
+    },
+    {
+      "nombre": "Subspace Estimation from Unbalanced and Incomplete Data Matrices: $\\ell_{2,\\infty}$ Statistical Guarantees",
+      "link": "http://arxiv.org/abs/1910.04267v5"
+    },
+    {
+      "nombre": "A new permutation test statistic for complete block designs",
+      "link": "http://arxiv.org/abs/1411.7581v1"
+    },
+    {
+      "nombre": "Accounting for spatial correlation in the scan statistic",
+      "link": "http://arxiv.org/abs/0712.1458v1"
+    },
+    {
+      "nombre": "Discussion of: Statistical analysis of an archeological find",
+      "link": "http://arxiv.org/abs/0804.0080v1"
+    },
+    {
+      "nombre": "Saddlepoint approximation for Student's t-statistic with no moment conditions",
+      "link": "http://arxiv.org/abs/math/0508604v1"
+    },
+    {
+      "nombre": "Rejoinder of: Statistical analysis of an archeological find",
+      "link": "http://arxiv.org/abs/0804.0103v1"
+    },
+    {
+      "nombre": "Discussion of: Statistical analysis of an archaeological find",
+      "link": "http://arxiv.org/abs/0804.0090v1"
+    },
+    {
+      "nombre": "Discussion of: Statistical analysis of an archeological find",
+      "link": "http://arxiv.org/abs/0804.0095v1"
     }
   ],
   "fisica": [
@@ -2377,6 +2425,10 @@
     {
       "nombre": "Classical and intuitionistic mathematical languages shape our understanding of time in physics",
       "link": "http://arxiv.org/abs/2002.01653v1"
+    },
+    {
+      "nombre": "Open statistical issues in particle physics",
+      "link": "http://arxiv.org/abs/0811.1663v1"
     }
   ],
   "quimica": [
@@ -2731,6 +2783,34 @@
     {
       "nombre": "Backward stochastic dynamics on a filtered probability space",
       "link": "http://arxiv.org/abs/0904.0377v4"
+    },
+    {
+      "nombre": "Analyzing complex functional brain networks: fusing statistics and network science to understand the brain",
+      "link": "http://arxiv.org/abs/1302.5721v3"
+    },
+    {
+      "nombre": "Equivalence of distance-based and RKHS-based statistics in hypothesis testing",
+      "link": "http://arxiv.org/abs/1207.6076v3"
+    },
+    {
+      "nombre": "Random fields of multivariate test statistics, with applications to shape analysis",
+      "link": "http://arxiv.org/abs/0803.1708v1"
+    },
+    {
+      "nombre": "Special section on statistics in the atmospheric sciences",
+      "link": "http://arxiv.org/abs/0901.3469v1"
+    },
+    {
+      "nombre": "Natural statistics for spectral samples",
+      "link": "http://arxiv.org/abs/1302.5892v2"
+    },
+    {
+      "nombre": "Optimal and fast detection of spatial clusters with scan statistics",
+      "link": "http://arxiv.org/abs/1002.4770v1"
+    },
+    {
+      "nombre": "Applied statistics: A review",
+      "link": "http://arxiv.org/abs/0708.3545v1"
     }
   ]
 }
