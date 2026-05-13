@@ -871,6 +871,13 @@
       "pdf": "https://arxiv.org/pdf/1802.02278v2",
       "fuente": "arxiv",
       "dominio": "analysis"
+    },
+    {
+      "nombre": "Electron transfers in chemistry and biology",
+      "link": "https://openalex.org/W2031904472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
     }
   ],
   "biologia": [
@@ -887,6 +894,104 @@
       "pdf": "https://arxiv.org/pdf/2006.16189v4",
       "fuente": "arxiv",
       "dominio": "machine learning"
+    },
+    {
+      "nombre": "Gene Ontology: tool for the unification of biology",
+      "link": "https://openalex.org/W2103017472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Free radicals in biology and medicine",
+      "link": "https://openalex.org/W2010094123",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Bioconductor: open software development for computational biology and bioinformatics",
+      "link": "https://openalex.org/W2160697532",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Population Biology of Plants",
+      "link": "https://openalex.org/W2077454220",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Molecular Biology of the Cell",
+      "link": "https://openalex.org/W4236463097",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "The biology of VEGF and its receptors",
+      "link": "https://openalex.org/W2000292756",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Network biology: understanding the cell's functional organization",
+      "link": "https://openalex.org/W2163480486",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Molecular Cell Biology",
+      "link": "https://openalex.org/W1491459594",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Shedding light on the cell biology of extracellular vesicles",
+      "link": "https://openalex.org/W2786514708",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Brock Biology of Microorganisms",
+      "link": "https://openalex.org/W1965399445",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "phytools: an R package for phylogenetic comparative biology (and other things)",
+      "link": "https://openalex.org/W1605984840",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Population Biology of Plants.",
+      "link": "https://openalex.org/W2329679623",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Free Radicals in Biology and Medicine",
+      "link": "https://openalex.org/W4300198507",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Oxidants, oxidative stress and the biology of ageing",
+      "link": "https://openalex.org/W2101861123",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
     }
   ],
   "filosofia": [],
