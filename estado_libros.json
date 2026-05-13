@@ -92,8 +92,115 @@
       "dominio": "computer science"
     }
   ],
-  "fisica": [],
-  "quimica": [],
+  "fisica": [
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/49cdf16489ee008649a00037cb22041a7bcd96ec",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Atmospheric Chemistry and Physics: From Air Pollution to Climate Change",
+      "link": "https://www.semanticscholar.org/paper/9dc534fff352b413de81dfddfba9f4d0990f079c",
+      "pdf": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Sol-Gel Science: The Physics and Chemistry of Sol-Gel Processing",
+      "link": "https://www.semanticscholar.org/paper/5366ae191ffd171dd8a5053b5356abee031ffaa4",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/d4686dec40085e3f5415c21b162ec06efdece47c",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/e020917a46a49ea967e2b21e465f2f6e3b72dcac",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    }
+  ],
+  "quimica": [
+    {
+      "nombre": "Neural Message Passing for Quantum Chemistry",
+      "link": "https://www.semanticscholar.org/paper/e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "link": "https://www.semanticscholar.org/paper/9fce7e2e705ebb141121df885767b1de4e699367",
+      "pdf": "https://www.nature.com/articles/srep42717.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The ORCA quantum chemistry program package.",
+      "link": "https://www.semanticscholar.org/paper/1bb34b983fc388d5c6f9b2d3ebb438a0f1385a65",
+      "pdf": "https://aip.scitation.org/doi/pdf/10.1063/5.0004608",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "In situ click chemistry generation of cyclooxygenase-2 inhibitors",
+      "link": "https://www.semanticscholar.org/paper/43428128c23bfd126e4ab1568c1a3a75f29b91bd",
+      "pdf": "https://www.nature.com/articles/s41467-016-0009-6.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The Chemistry of Clay-Organic Reactions",
+      "link": "https://www.semanticscholar.org/paper/7e18645c6ac8d24e75bbbc3ed662378ad6e5e1e4",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of Polymer Chemistry",
+      "link": "https://www.semanticscholar.org/paper/2e2699eb7aef99a1a80cd2fceec1c36a64bbe78d",
+      "pdf": "https://doi.org/10.1007/978-1-4615-4227-8",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Science China Chemistry: Preface",
+      "link": "https://www.semanticscholar.org/paper/22b485aac6fc8b5f9e143ba55b47cfaa0bd6982b",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11426-011-4464-y.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Environmental Chemistry of Soils",
+      "link": "https://www.semanticscholar.org/paper/b258961fa2f5b4d3171133e23c2c56765bd5b179",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Environmental Chemistry and Ecotoxicology of Hazardous Heavy Metals: Environmental Persistence, Toxicity, and Bioaccumulation",
+      "link": "https://www.semanticscholar.org/paper/dcef4f4e020f30e4942a551d66f585c21c827518",
+      "pdf": "https://doi.org/10.1155/2019/6730305",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Aquatic Chemistry: Chemical Equilibria and Rates in Natural Waters",
+      "link": "https://www.semanticscholar.org/paper/05b9e01b36be8f688cdbd7131b89920fa46ac048",
+      "pdf": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    }
+  ],
   "biologia": [
     {
       "nombre": "Algorithms on strings, trees, and sequences computer science and computational biology",
