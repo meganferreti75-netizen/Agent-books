@@ -174,6 +174,62 @@
       "pdf": "https://arxiv.org/pdf/1904.13223v3",
       "fuente": "arxiv",
       "dominio": "machine learning"
+    },
+    {
+      "nombre": "The local quantization behavior of absolutely continuous probabilities",
+      "link": "http://arxiv.org/abs/1009.5093v2",
+      "pdf": "https://arxiv.org/pdf/1009.5093v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Uniquely determined uniform probability on the natural numbers",
+      "link": "http://arxiv.org/abs/1402.3999v3",
+      "pdf": "https://arxiv.org/pdf/1402.3999v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Analytic crossing probabilities for certain barriers by Brownian motion",
+      "link": "http://arxiv.org/abs/0704.2826v2",
+      "pdf": "https://arxiv.org/pdf/0704.2826v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Probabilities of randomly centered small balls and quantization in Banach spaces",
+      "link": "http://arxiv.org/abs/math/0402220v2",
+      "pdf": "https://arxiv.org/pdf/math/0402220v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Moderate deviation probabilities for open convex sets: nonlogarithmic behavior",
+      "link": "http://arxiv.org/abs/math/0410139v1",
+      "pdf": "https://arxiv.org/pdf/math/0410139v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Ruin Probabilities and Overshoots for General Levy Insurance Risk Processes",
+      "link": "http://arxiv.org/abs/math/0503539v1",
+      "pdf": "https://arxiv.org/pdf/math/0503539v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "A sequential Monte Carlo approach to computing tail probabilities in stochastic models",
+      "link": "http://arxiv.org/abs/1202.4582v1",
+      "pdf": "https://arxiv.org/pdf/1202.4582v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Algebraic groups in non-commutative probability theory revisited",
+      "link": "http://arxiv.org/abs/2208.02585v2",
+      "pdf": "https://arxiv.org/pdf/2208.02585v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
     }
   ],
   "fisica": [
@@ -537,6 +593,55 @@
       "pdf": "https://arxiv.org/pdf/0708.3545v1",
       "fuente": "arxiv",
       "dominio": "statistics"
+    },
+    {
+      "nombre": "Splitting of liftings in products of probability spaces",
+      "link": "http://arxiv.org/abs/math/0509010v1",
+      "pdf": "https://arxiv.org/pdf/math/0509010v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Optimal stopping under probability distortion",
+      "link": "http://arxiv.org/abs/1103.1755v2",
+      "pdf": "https://arxiv.org/pdf/1103.1755v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "What is the probability of intersecting the set of Brownian double points?",
+      "link": "http://arxiv.org/abs/math/0404105v3",
+      "pdf": "https://arxiv.org/pdf/math/0404105v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "The critical probability for random Voronoi percolation in the plane is 1/2",
+      "link": "http://arxiv.org/abs/math/0410336v2",
+      "pdf": "https://arxiv.org/pdf/math/0410336v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Asymptotics of the probability minimizing a \"down-side\" risk",
+      "link": "http://arxiv.org/abs/1001.2131v1",
+      "pdf": "https://arxiv.org/pdf/1001.2131v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Orthogonal polynomial ensembles in probability theory",
+      "link": "http://arxiv.org/abs/math/0403090v3",
+      "pdf": "https://arxiv.org/pdf/math/0403090v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Outperforming the market portfolio with a given probability",
+      "link": "http://arxiv.org/abs/1006.3224v6",
+      "pdf": "https://arxiv.org/pdf/1006.3224v6",
+      "fuente": "arxiv",
+      "dominio": "probability"
     }
   ]
 }
