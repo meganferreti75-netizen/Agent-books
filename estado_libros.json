@@ -146,6 +146,34 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "chemistry"
+    },
+    {
+      "nombre": "Active learning for data streams: a survey",
+      "link": "http://arxiv.org/abs/2302.08893v4",
+      "pdf": "https://arxiv.org/pdf/2302.08893v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Emotion in Reinforcement Learning Agents and Robots: A Survey",
+      "link": "http://arxiv.org/abs/1705.05172v1",
+      "pdf": "https://arxiv.org/pdf/1705.05172v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Learning Representations from Dendrograms",
+      "link": "http://arxiv.org/abs/1812.09225v4",
+      "pdf": "https://arxiv.org/pdf/1812.09225v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Unsupervised Representation Learning with Minimax Distance Measures",
+      "link": "http://arxiv.org/abs/1904.13223v3",
+      "pdf": "https://arxiv.org/pdf/1904.13223v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
     }
   ],
   "fisica": [
@@ -211,6 +239,13 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "chemistry"
+    },
+    {
+      "nombre": "Physics-Inspired Interpretability Of Machine Learning Models",
+      "link": "http://arxiv.org/abs/2304.02381v2",
+      "pdf": "https://arxiv.org/pdf/2304.02381v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
     }
   ],
   "quimica": [
@@ -369,12 +404,83 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "computer science"
+    },
+    {
+      "nombre": "DOME: Recommendations for supervised machine learning validation in biology",
+      "link": "http://arxiv.org/abs/2006.16189v4",
+      "pdf": "https://arxiv.org/pdf/2006.16189v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
     }
   ],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
-  "cs": [],
+  "cs": [
+    {
+      "nombre": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+      "link": "http://arxiv.org/abs/2306.04338v1",
+      "pdf": "https://arxiv.org/pdf/2306.04338v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+      "link": "http://arxiv.org/abs/2201.12150v2",
+      "pdf": "https://arxiv.org/pdf/2201.12150v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+      "link": "http://arxiv.org/abs/2303.15563v1",
+      "pdf": "https://arxiv.org/pdf/2303.15563v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "A Benchmark Study of Machine Learning Models for Online Fake News Detection",
+      "link": "http://arxiv.org/abs/1905.04749v2",
+      "pdf": "https://arxiv.org/pdf/1905.04749v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning",
+      "link": "http://arxiv.org/abs/2602.11092v2",
+      "pdf": "https://arxiv.org/pdf/2602.11092v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning",
+      "link": "http://arxiv.org/abs/2509.08759v3",
+      "pdf": "https://arxiv.org/pdf/2509.08759v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in Large-Scale Machine Learning",
+      "link": "http://arxiv.org/abs/1906.01101v1",
+      "pdf": "https://arxiv.org/pdf/1906.01101v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory",
+      "link": "http://arxiv.org/abs/2404.12511v1",
+      "pdf": "https://arxiv.org/pdf/2404.12511v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data",
+      "link": "http://arxiv.org/abs/2402.01393v3",
+      "pdf": "https://arxiv.org/pdf/2402.01393v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    }
+  ],
   "estadistica": [
     {
       "nombre": "Probability and Statistics With Reliability, Queuing, and Computer Science Applications.",
