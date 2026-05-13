@@ -1,16 +1,961 @@
 {
   "matematicas": [
     {
-      "nombre": "Partitioning Perfect Graphs into Stars",
-      "link": "http://arxiv.org/abs/1402.2589v3",
-      "pdf": "https://arxiv.org/pdf/1402.2589v3",
+      "nombre": "Lecture Notes in Computer Science 1205",
+      "link": "https://openalex.org/W2561675875",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Handbook of theoretical computer science",
+      "link": "https://openalex.org/W2132750992",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Journal of Universal Computer Science",
+      "link": "https://openalex.org/W4292003697",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Calibration of the Computer Science and Applications, Inc. accelerometer",
+      "link": "https://openalex.org/W2011781303",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Computer science as empirical inquiry",
+      "link": "https://openalex.org/W1968079292",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Some computer science issues in ubiquitous computing",
+      "link": "https://openalex.org/W2084069552",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Concrete Mathematics: A Foundation for Computer Science",
+      "link": "https://openalex.org/W2029948740",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Fiftieth volume of theoretical computer science",
+      "link": "https://openalex.org/W2095436832",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Lecture Notes in Computer Science 1867",
+      "link": "https://openalex.org/W2602645338",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Department of Computer Science",
+      "link": "https://openalex.org/W4205241946",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Concrete Mathematics: A Foundation for Computer Science.",
+      "link": "https://openalex.org/W2329095262",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Ambient belonging: How stereotypical cues impact gender participation in computer science.",
+      "link": "https://openalex.org/W2056648275",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "GRAPH THEORY WITH APPLICATIONS TO ENGINEERING AND COMPUTER SCIENCE",
+      "link": "https://openalex.org/W1519532587",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Statistical and computational trade-offs in estimation of sparse principal components",
+      "link": "http://arxiv.org/abs/1408.5369v2",
+      "pdf": "https://arxiv.org/pdf/1408.5369v2",
       "fuente": "arxiv",
-      "dominio": "graph theory"
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Rejoinder to \"Equi-energy sampler with applications in statistical inference and statistical mechanics\"",
+      "link": "http://arxiv.org/abs/math/0611224v1",
+      "pdf": "https://arxiv.org/pdf/math/0611224v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Statistical inference for time-changed Lévy processes via composite characteristic function estimation",
+      "link": "http://arxiv.org/abs/1003.0275v3",
+      "pdf": "https://arxiv.org/pdf/1003.0275v3",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "A Commentary on Statistical Assessment of Violence Recidivism Risk",
+      "link": "http://arxiv.org/abs/1503.03666v1",
+      "pdf": "https://arxiv.org/pdf/1503.03666v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Subspace Estimation from Unbalanced and Incomplete Data Matrices: $\\ell_{2,\\infty}$ Statistical Guarantees",
+      "link": "http://arxiv.org/abs/1910.04267v5",
+      "pdf": "https://arxiv.org/pdf/1910.04267v5",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "A new permutation test statistic for complete block designs",
+      "link": "http://arxiv.org/abs/1411.7581v1",
+      "pdf": "https://arxiv.org/pdf/1411.7581v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Accounting for spatial correlation in the scan statistic",
+      "link": "http://arxiv.org/abs/0712.1458v1",
+      "pdf": "https://arxiv.org/pdf/0712.1458v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "The chemistry of graphene oxide",
+      "link": "https://openalex.org/W2135479172",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Active learning for data streams: a survey",
+      "link": "http://arxiv.org/abs/2302.08893v4",
+      "pdf": "https://arxiv.org/pdf/2302.08893v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Emotion in Reinforcement Learning Agents and Robots: A Survey",
+      "link": "http://arxiv.org/abs/1705.05172v1",
+      "pdf": "https://arxiv.org/pdf/1705.05172v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Learning Representations from Dendrograms",
+      "link": "http://arxiv.org/abs/1812.09225v4",
+      "pdf": "https://arxiv.org/pdf/1812.09225v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Unsupervised Representation Learning with Minimax Distance Measures",
+      "link": "http://arxiv.org/abs/1904.13223v3",
+      "pdf": "https://arxiv.org/pdf/1904.13223v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "The local quantization behavior of absolutely continuous probabilities",
+      "link": "http://arxiv.org/abs/1009.5093v2",
+      "pdf": "https://arxiv.org/pdf/1009.5093v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Uniquely determined uniform probability on the natural numbers",
+      "link": "http://arxiv.org/abs/1402.3999v3",
+      "pdf": "https://arxiv.org/pdf/1402.3999v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Analytic crossing probabilities for certain barriers by Brownian motion",
+      "link": "http://arxiv.org/abs/0704.2826v2",
+      "pdf": "https://arxiv.org/pdf/0704.2826v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Probabilities of randomly centered small balls and quantization in Banach spaces",
+      "link": "http://arxiv.org/abs/math/0402220v2",
+      "pdf": "https://arxiv.org/pdf/math/0402220v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Moderate deviation probabilities for open convex sets: nonlogarithmic behavior",
+      "link": "http://arxiv.org/abs/math/0410139v1",
+      "pdf": "https://arxiv.org/pdf/math/0410139v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Ruin Probabilities and Overshoots for General Levy Insurance Risk Processes",
+      "link": "http://arxiv.org/abs/math/0503539v1",
+      "pdf": "https://arxiv.org/pdf/math/0503539v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "A sequential Monte Carlo approach to computing tail probabilities in stochastic models",
+      "link": "http://arxiv.org/abs/1202.4582v1",
+      "pdf": "https://arxiv.org/pdf/1202.4582v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Algebraic groups in non-commutative probability theory revisited",
+      "link": "http://arxiv.org/abs/2208.02585v2",
+      "pdf": "https://arxiv.org/pdf/2208.02585v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "The combinatorics of Jeff Remmel",
+      "link": "http://arxiv.org/abs/2102.07269v1",
+      "pdf": "https://arxiv.org/pdf/2102.07269v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On the combinatorics of Forrester-Baxter models",
+      "link": "http://arxiv.org/abs/math/0002100v1",
+      "pdf": "https://arxiv.org/pdf/math/0002100v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Finite field models in additive combinatorics",
+      "link": "http://arxiv.org/abs/math/0409420v1",
+      "pdf": "https://arxiv.org/pdf/math/0409420v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Symmetric Functions and Rectangular Catalan Combinatorics",
+      "link": "http://arxiv.org/abs/2112.09799v1",
+      "pdf": "https://arxiv.org/pdf/2112.09799v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Finite field models in arithmetic combinatorics -- twenty years on",
+      "link": "http://arxiv.org/abs/2312.08100v1",
+      "pdf": "https://arxiv.org/pdf/2312.08100v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Dungeons and Dragons: Combinatorics for the $dP_3$ Quiver",
+      "link": "http://arxiv.org/abs/1805.09280v3",
+      "pdf": "https://arxiv.org/pdf/1805.09280v3",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On combinatorics of quiver component formulas",
+      "link": "http://arxiv.org/abs/math/0307019v1",
+      "pdf": "https://arxiv.org/pdf/math/0307019v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "The combinatorics of frieze patterns and Markoff numbers",
+      "link": "http://arxiv.org/abs/math/0511633v5",
+      "pdf": "https://arxiv.org/pdf/math/0511633v5",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Graphical Designs and Extremal Combinatorics",
+      "link": "http://arxiv.org/abs/1910.05966v2",
+      "pdf": "https://arxiv.org/pdf/1910.05966v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Hopf algebras and the combinatorics of connected graphs in quantum field theory",
+      "link": "http://arxiv.org/abs/0808.1070v2",
+      "pdf": "https://arxiv.org/pdf/0808.1070v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Hirzebruch-type inequalities viewed as tools in combinatorics",
+      "link": "http://arxiv.org/abs/1808.09167v4",
+      "pdf": "https://arxiv.org/pdf/1808.09167v4",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics of nondeterministic walks of the Dyck and Motzkin type",
+      "link": "http://arxiv.org/abs/1812.06650v1",
+      "pdf": "https://arxiv.org/pdf/1812.06650v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On f- and h- vectors of relative simplicial complexes",
+      "link": "http://arxiv.org/abs/1711.02729v2",
+      "pdf": "https://arxiv.org/pdf/1711.02729v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Chain algebras of finite distributive lattices",
+      "link": "http://arxiv.org/abs/2304.04810v2",
+      "pdf": "https://arxiv.org/pdf/2304.04810v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "A Walk Through Some Newer Parts of Additive Combinatorics",
+      "link": "http://arxiv.org/abs/2211.01893v1",
+      "pdf": "https://arxiv.org/pdf/2211.01893v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Towards semi-classical analysis for sub-elliptic operators",
+      "link": "http://arxiv.org/abs/2111.09854v1",
+      "pdf": "https://arxiv.org/pdf/2111.09854v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "D0 Regional Analysis Center Concepts",
+      "link": "http://arxiv.org/abs/cs/0306115v1",
+      "pdf": "https://arxiv.org/pdf/cs/0306115v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "OSIRIS-REx Sample Analysis Plan -- Revision 3.0",
+      "link": "http://arxiv.org/abs/2308.11794v1",
+      "pdf": "https://arxiv.org/pdf/2308.11794v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Asymptotic analysis and diffusion limit of the Persistent Turning Walker Model",
+      "link": "http://arxiv.org/abs/0811.0600v2",
+      "pdf": "https://arxiv.org/pdf/0811.0600v2",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Convergence analysis of Strang splitting for Vlasov-type equations",
+      "link": "http://arxiv.org/abs/1207.2090v2",
+      "pdf": "https://arxiv.org/pdf/1207.2090v2",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Approaches to analysis with infinitesimals following Robinson, Nelson, and others",
+      "link": "http://arxiv.org/abs/1703.00425v1",
+      "pdf": "https://arxiv.org/pdf/1703.00425v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Structural analysis of an $L$-infinity variational problem and relations to distance functions",
+      "link": "http://arxiv.org/abs/2001.07411v2",
+      "pdf": "https://arxiv.org/pdf/2001.07411v2",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Convergence analysis of a discontinuous Galerkin/Strang splitting approximation for the Vlasov--Poisson equations",
+      "link": "http://arxiv.org/abs/1211.2353v1",
+      "pdf": "https://arxiv.org/pdf/1211.2353v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Lie symmetry analysis and similarity solutions for the Camassa-Choi equations",
+      "link": "http://arxiv.org/abs/2101.11843v1",
+      "pdf": "https://arxiv.org/pdf/2101.11843v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Smooth solutions of the Euler and Navier-Stokes equations from the a posteriori analysis of approximate solutions",
+      "link": "http://arxiv.org/abs/1405.3421v4",
+      "pdf": "https://arxiv.org/pdf/1405.3421v4",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "How Many Genes Are Needed for a Discriminant Microarray Data Analysis ?",
+      "link": "http://arxiv.org/abs/physics/0104029v1",
+      "pdf": "https://arxiv.org/pdf/physics/0104029v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "A Posteriori Error Analysis for the Optimal Control of Magneto-Static Fields",
+      "link": "http://arxiv.org/abs/1607.04745v1",
+      "pdf": "https://arxiv.org/pdf/1607.04745v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "An invitation to harmonic analysis associated with semigroups of operators",
+      "link": "http://arxiv.org/abs/1304.4922v1",
+      "pdf": "https://arxiv.org/pdf/1304.4922v1",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Reduced-Rank Tensor-on-Tensor Regression and Tensor-variate Analysis of Variance",
+      "link": "http://arxiv.org/abs/2012.10249v5",
+      "pdf": "https://arxiv.org/pdf/2012.10249v5",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Algebraic topology",
+      "link": "https://www.semanticscholar.org/paper/0f1b9a40d81b92b4359e492c158272d61c2beefb",
+      "pdf": "https://link.springer.com/content/pdf/bfm:978-3-540-46160-9/1?pdf=chapter%20toc",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "The Geometry and Topology of Coxeter Groups",
+      "link": "https://www.semanticscholar.org/paper/f0e6e3fed3d74b862ce4240159df5ec2650a7f98",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes.",
+      "link": "https://www.semanticscholar.org/paper/05e7f7d5d5a08e0bcaca7497951c9560c546353d",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Consensus problems in networks of agents with switching topology and time-delays",
+      "link": "https://www.semanticscholar.org/paper/9839ed2281ba4b589bf88c7e4acc48c9fa6fb933",
+      "pdf": "https://authors.library.caltech.edu/5146/1/OLFieeetac04.pdf",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology",
+      "link": "https://www.semanticscholar.org/paper/a3bce1d9209335eb4c1b0f69d5b14e03a9c5b1f8",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology Optimization: \"Theory, Methods, And Applications\"",
+      "link": "https://www.semanticscholar.org/paper/9805dcb5d37630af0f9dece81acdfc9e9b35200f",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Toward Defining the Course of Evolution: Minimum Change for a Specific Tree Topology",
+      "link": "https://www.semanticscholar.org/paper/cbb0f3690661c288f1a383293a67d42218081e2c",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "General Topology",
+      "link": "https://www.semanticscholar.org/paper/ec34e45f7efbcf4d3e94d2b959cbc43d718a2816",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "On power-law relationships of the Internet topology",
+      "link": "https://www.semanticscholar.org/paper/1304be16c88152824b60288009c194f67ea181d3",
+      "pdf": "https://dl.acm.org/doi/pdf/10.1145/316188.316229",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq",
+      "link": "https://www.semanticscholar.org/paper/715852403fb0d8cd839f0ee3d98b9e61b08ca149",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
+      "link": "https://www.semanticscholar.org/paper/2f990f0e14d8e048cc74ceab393a1c94106fc868",
+      "pdf": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-019-1663-x",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition",
+      "link": "https://www.semanticscholar.org/paper/b5b717bd65678b9b980ae3f2aaea0396e87ab0e2",
+      "pdf": "https://arxiv.org/pdf/2107.12213",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "A 99 line topology optimization code written in Matlab",
+      "link": "https://www.semanticscholar.org/paper/e9331af59ba3ac3781ca5f036aefba7274a6e9ed",
+      "pdf": "http://orbit.dtu.dk/en/publications/a-99-line-topology-optimization-code-written-in-matlab(b0794468-93a9-4cca-87b3-b4224938859a).html",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "An innovative modular multilevel converter topology suitable for a wide power range",
+      "link": "https://www.semanticscholar.org/paper/d562e54f1da3e249a68e199fce62b67abec992f8",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Differential forms in algebraic topology",
+      "link": "https://www.semanticscholar.org/paper/4ac0eda2d75cce43fa56e60d22580c9b8f196e03",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Multiple View Geometry in Computer Vision",
+      "link": "https://openalex.org/W2033819227",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "<i>The Fractal Geometry of Nature</i>",
+      "link": "https://openalex.org/W2078206416",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "The Fractal Geometry of Nature.",
+      "link": "https://openalex.org/W2800860906",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Algebraic Geometry",
+      "link": "https://openalex.org/W4248269519",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Principles of Algebraic Geometry",
+      "link": "https://openalex.org/W1515192744",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Fractal Geometry: Mathematical Foundations and Applications.",
+      "link": "https://openalex.org/W2032121576",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Foundations of Differential Geometry",
+      "link": "https://openalex.org/W2089465567",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry--An Introduction.",
+      "link": "https://openalex.org/W2005314985",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "The Fractal Geometry of Nature",
+      "link": "https://openalex.org/W2964631455",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Differential Geometry, Lie Groups, and Symmetric Spaces",
+      "link": "https://openalex.org/W1983894121",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry",
+      "link": "https://openalex.org/W2911302472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Stochastic Geometry and its Applications",
+      "link": "https://openalex.org/W2118166339",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry: Algorithms and Applications",
+      "link": "https://openalex.org/W2149906774",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Van der Waals Density Functional for General Geometries",
+      "link": "https://openalex.org/W2003193361",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Differential geometry of curves and surfaces",
+      "link": "https://openalex.org/W1565212980",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Consensus Problems in Networks of Agents With Switching Topology and Time-Delays",
+      "link": "https://openalex.org/W2107396783",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Predicting transmembrane protein topology with a hidden markov model: application to complete genomes11Edited by F. Cohen",
+      "link": "https://openalex.org/W2152770371",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Multilevel inverters: a survey of topologies, controls, and applications",
+      "link": "https://openalex.org/W2160830391",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Algebraic topology",
+      "link": "https://openalex.org/W3040586665",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology Optimization: Theory, Methods, and Applications",
+      "link": "https://openalex.org/W1575923498",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Consensus seeking in multiagent systems under dynamically changing interaction topologies",
+      "link": "https://openalex.org/W2099175737",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "On power-law relationships of the Internet topology",
+      "link": "https://openalex.org/W1976969221",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Toward Defining the Course of Evolution: Minimum Change for a Specific Tree Topology",
+      "link": "https://openalex.org/W2163892779",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Generating optimal topologies in structural design using a homogenization method",
+      "link": "https://openalex.org/W2069697210",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology of cosmic domains and strings",
+      "link": "https://openalex.org/W2142768579",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Algebraic Topology",
+      "link": "https://openalex.org/W3107709063",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology optimization approaches",
+      "link": "https://openalex.org/W2220999736",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Evolving Neural Networks through Augmenting Topologies",
+      "link": "https://openalex.org/W2111935653",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology and data",
+      "link": "https://openalex.org/W1991566301",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "A level set method for structural topology optimization",
+      "link": "https://openalex.org/W2132034927",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "The Caccetta-Haggkvist conjecture and additive number theory",
+      "link": "http://arxiv.org/abs/math/0603469v1",
+      "pdf": "https://arxiv.org/pdf/math/0603469v1",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "On the local Tamagawa number conjecture for Tate motives over tamely ramified fields",
+      "link": "http://arxiv.org/abs/1508.06031v2",
+      "pdf": "https://arxiv.org/pdf/1508.06031v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
     },
     {
       "nombre": "Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It",
       "link": "http://arxiv.org/abs/hep-th/9707234v2",
       "pdf": "https://arxiv.org/pdf/hep-th/9707234v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Computational class field theory",
+      "link": "http://arxiv.org/abs/0802.3843v2",
+      "pdf": "https://arxiv.org/pdf/0802.3843v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Noncanonical number systems in the integers",
+      "link": "http://arxiv.org/abs/0804.2190v1",
+      "pdf": "https://arxiv.org/pdf/0804.2190v1",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "$a$-Numbers of Cyclic Degree $p^2$ Covers of the Projective Line",
+      "link": "http://arxiv.org/abs/2309.12153v2",
+      "pdf": "https://arxiv.org/pdf/2309.12153v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Torsion primes for elliptic curves over degree 8 number fields",
+      "link": "http://arxiv.org/abs/2304.14284v3",
+      "pdf": "https://arxiv.org/pdf/2304.14284v3",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "The étale cohomology ring of the ring of integers of a number field",
+      "link": "http://arxiv.org/abs/1803.08437v5",
+      "pdf": "https://arxiv.org/pdf/1803.08437v5",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Squares in arithmetic progression over quadratic extensions of number fields",
+      "link": "http://arxiv.org/abs/2602.03251v1",
+      "pdf": "https://arxiv.org/pdf/2602.03251v1",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "On the number of even values of an eta-quotient",
+      "link": "http://arxiv.org/abs/2210.09451v2",
+      "pdf": "https://arxiv.org/pdf/2210.09451v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Progress in number theory in the years 1998-2009",
+      "link": "http://arxiv.org/abs/1010.2484v4",
+      "pdf": "https://arxiv.org/pdf/1010.2484v4",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Divisibility by 2 of Stirling numbers of the second kind and their differences",
+      "link": "http://arxiv.org/abs/1209.6284v3",
+      "pdf": "https://arxiv.org/pdf/1209.6284v3",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "On the Frobenius fields of abelian varieties over number fields",
+      "link": "http://arxiv.org/abs/2402.07935v3",
+      "pdf": "https://arxiv.org/pdf/2402.07935v3",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "The 2-adic valuations of Stirling numbers of the second kind",
+      "link": "http://arxiv.org/abs/0907.3412v2",
+      "pdf": "https://arxiv.org/pdf/0907.3412v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "On the parity of the number of partitions with odd multiplicities",
+      "link": "http://arxiv.org/abs/2004.06204v2",
+      "pdf": "https://arxiv.org/pdf/2004.06204v2",
+      "fuente": "arxiv",
+      "dominio": "number theory"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W2914659449",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "- Analytic combinatorics",
+      "link": "https://openalex.org/W2340541605",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W1551177513",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Analytic Combinatorics",
+      "link": "https://openalex.org/W186403072",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics on words",
+      "link": "https://openalex.org/W1514324498",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Handbook of Combinatorics",
+      "link": "https://openalex.org/W606453859",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Advanced Combinatorics",
+      "link": "https://openalex.org/W4212799367",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Algebraic Combinatorics on Words",
+      "link": "https://openalex.org/W1586417893",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "A Course in Combinatorics",
+      "link": "https://openalex.org/W1599335667",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W4300302225",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics and Commutative Algebra",
+      "link": "https://openalex.org/W1515761639",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics of Coxeter Groups",
+      "link": "https://openalex.org/W112671161",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics: Volume 1",
+      "link": "https://openalex.org/W1579213680",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "The Combinatorics of Network Reliability",
+      "link": "https://openalex.org/W2117889403",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Partitioning Perfect Graphs into Stars",
+      "link": "http://arxiv.org/abs/1402.2589v3",
+      "pdf": "https://arxiv.org/pdf/1402.2589v3",
       "fuente": "arxiv",
       "dominio": "graph theory"
     },
@@ -106,12 +1051,829 @@
       "dominio": "graph theory"
     }
   ],
-  "fisica": [],
-  "quimica": [],
-  "biologia": [],
+  "fisica": [
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/49cdf16489ee008649a00037cb22041a7bcd96ec",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Atmospheric Chemistry and Physics: From Air Pollution to Climate Change",
+      "link": "https://www.semanticscholar.org/paper/9dc534fff352b413de81dfddfba9f4d0990f079c",
+      "pdf": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Sol-Gel Science: The Physics and Chemistry of Sol-Gel Processing",
+      "link": "https://www.semanticscholar.org/paper/5366ae191ffd171dd8a5053b5356abee031ffaa4",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/d4686dec40085e3f5415c21b162ec06efdece47c",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://www.semanticscholar.org/paper/e020917a46a49ea967e2b21e465f2f6e3b72dcac",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Open statistical issues in particle physics",
+      "link": "http://arxiv.org/abs/0811.1663v1",
+      "pdf": "https://arxiv.org/pdf/0811.1663v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2132905138",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2964344211",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Handbook of chemistry and physics",
+      "link": "https://openalex.org/W2739616593",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Physics-Inspired Interpretability Of Machine Learning Models",
+      "link": "http://arxiv.org/abs/2304.02381v2",
+      "pdf": "https://arxiv.org/pdf/2304.02381v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Introduction to Solid State Physics",
+      "link": "https://openalex.org/W2056722718",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics of Semiconductor Devices",
+      "link": "https://openalex.org/W3147289055",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Journal of Physics: Conference Series",
+      "link": "https://openalex.org/W2990714382",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Methods of Theoretical Physics",
+      "link": "https://openalex.org/W2032231305",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics of Semiconductor Devices",
+      "link": "https://openalex.org/W2490765418",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Introduction to Solid State Physics",
+      "link": "https://openalex.org/W4229499352",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "The Physics of Liquid Crystals",
+      "link": "https://openalex.org/W4388395150",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "PYTHIA 6.4 physics and manual",
+      "link": "https://openalex.org/W2258584306",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W2899140785",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W3084106382",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W2252578136",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Scaling concepts in polymer physics",
+      "link": "https://openalex.org/W225968618",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    }
+  ],
+  "quimica": [
+    {
+      "nombre": "Neural Message Passing for Quantum Chemistry",
+      "link": "https://www.semanticscholar.org/paper/e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "link": "https://www.semanticscholar.org/paper/9fce7e2e705ebb141121df885767b1de4e699367",
+      "pdf": "https://www.nature.com/articles/srep42717.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The ORCA quantum chemistry program package.",
+      "link": "https://www.semanticscholar.org/paper/1bb34b983fc388d5c6f9b2d3ebb438a0f1385a65",
+      "pdf": "https://aip.scitation.org/doi/pdf/10.1063/5.0004608",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "In situ click chemistry generation of cyclooxygenase-2 inhibitors",
+      "link": "https://www.semanticscholar.org/paper/43428128c23bfd126e4ab1568c1a3a75f29b91bd",
+      "pdf": "https://www.nature.com/articles/s41467-016-0009-6.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The Chemistry of Clay-Organic Reactions",
+      "link": "https://www.semanticscholar.org/paper/7e18645c6ac8d24e75bbbc3ed662378ad6e5e1e4",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of Polymer Chemistry",
+      "link": "https://www.semanticscholar.org/paper/2e2699eb7aef99a1a80cd2fceec1c36a64bbe78d",
+      "pdf": "https://doi.org/10.1007/978-1-4615-4227-8",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Science China Chemistry: Preface",
+      "link": "https://www.semanticscholar.org/paper/22b485aac6fc8b5f9e143ba55b47cfaa0bd6982b",
+      "pdf": "https://link.springer.com/content/pdf/10.1007/s11426-011-4464-y.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Environmental Chemistry of Soils",
+      "link": "https://www.semanticscholar.org/paper/b258961fa2f5b4d3171133e23c2c56765bd5b179",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Environmental Chemistry and Ecotoxicology of Hazardous Heavy Metals: Environmental Persistence, Toxicity, and Bioaccumulation",
+      "link": "https://www.semanticscholar.org/paper/dcef4f4e020f30e4942a551d66f585c21c827518",
+      "pdf": "https://doi.org/10.1155/2019/6730305",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Aquatic Chemistry: Chemical Equilibria and Rates in Natural Waters",
+      "link": "https://www.semanticscholar.org/paper/05b9e01b36be8f688cdbd7131b89920fa46ac048",
+      "pdf": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
+      "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Advanced inorganic chemistry",
+      "link": "https://openalex.org/W1523417784",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of Polymer Chemistry.",
+      "link": "https://openalex.org/W2314659927",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of polymer chemistry",
+      "link": "https://openalex.org/W1505352099",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Physical chemistry of surfaces",
+      "link": "https://openalex.org/W2062070676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Supramolecular Chemistry",
+      "link": "https://openalex.org/W29179573",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Chemistry with ADF",
+      "link": "https://openalex.org/W2150345533",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The Chemistry and Applications of Metal-Organic Frameworks",
+      "link": "https://openalex.org/W2141939342",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Green Chemistry: Theory and Practice",
+      "link": "https://openalex.org/W1523818626",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Click Chemistry: Diverse Chemical Function from a Few Good Reactions",
+      "link": "https://openalex.org/W4256503849",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "link": "https://openalex.org/W2593436234",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Fluorine in medicinal chemistry",
+      "link": "https://openalex.org/W2116087305",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Positivity-Preserving Analysis of Numerical Schemes for Ideal Magnetohydrodynamics",
+      "link": "http://arxiv.org/abs/1802.02278v2",
+      "pdf": "https://arxiv.org/pdf/1802.02278v2",
+      "fuente": "arxiv",
+      "dominio": "analysis"
+    },
+    {
+      "nombre": "Electron transfers in chemistry and biology",
+      "link": "https://openalex.org/W2031904472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    }
+  ],
+  "biologia": [
+    {
+      "nombre": "Algorithms on strings, trees, and sequences computer science and computational biology",
+      "link": "https://openalex.org/W1990061958",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "DOME: Recommendations for supervised machine learning validation in biology",
+      "link": "http://arxiv.org/abs/2006.16189v4",
+      "pdf": "https://arxiv.org/pdf/2006.16189v4",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Gene Ontology: tool for the unification of biology",
+      "link": "https://openalex.org/W2103017472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Free radicals in biology and medicine",
+      "link": "https://openalex.org/W2010094123",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Bioconductor: open software development for computational biology and bioinformatics",
+      "link": "https://openalex.org/W2160697532",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Population Biology of Plants",
+      "link": "https://openalex.org/W2077454220",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Molecular Biology of the Cell",
+      "link": "https://openalex.org/W4236463097",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "The biology of VEGF and its receptors",
+      "link": "https://openalex.org/W2000292756",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Network biology: understanding the cell's functional organization",
+      "link": "https://openalex.org/W2163480486",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Molecular Cell Biology",
+      "link": "https://openalex.org/W1491459594",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Shedding light on the cell biology of extracellular vesicles",
+      "link": "https://openalex.org/W2786514708",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Brock Biology of Microorganisms",
+      "link": "https://openalex.org/W1965399445",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "phytools: an R package for phylogenetic comparative biology (and other things)",
+      "link": "https://openalex.org/W1605984840",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Population Biology of Plants.",
+      "link": "https://openalex.org/W2329679623",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Free Radicals in Biology and Medicine",
+      "link": "https://openalex.org/W4300198507",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "Oxidants, oxidative stress and the biology of ageing",
+      "link": "https://openalex.org/W2101861123",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "biology"
+    },
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W1898014694",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Power failure: why small sample size undermines the reliability of neuroscience",
+      "link": "https://openalex.org/W2105824687",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience",
+      "link": "https://openalex.org/W4388250061",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Dynamical Systems in Neuroscience",
+      "link": "https://openalex.org/W1576838367",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+      "link": "https://openalex.org/W1849553904",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Network neuroscience",
+      "link": "https://openalex.org/W4211091012",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Representational similarity analysis – connecting the branches of systems neuroscience",
+      "link": "https://openalex.org/W2160654481",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "A social neuroscience perspective on adolescent risk-taking",
+      "link": "https://openalex.org/W2088180824",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems",
+      "link": "https://openalex.org/W1512746852",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W3141850914",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The neuroscience of mindfulness meditation",
+      "link": "https://openalex.org/W2026267776",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Computational principles of movement neuroscience",
+      "link": "https://openalex.org/W1779974355",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "New cognitive neurosciences",
+      "link": "https://openalex.org/W2600536710",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Circular analysis in systems neuroscience: the dangers of double dipping",
+      "link": "https://openalex.org/W2015866962",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Philosophical Foundations of Neuroscience",
+      "link": "https://openalex.org/W2035697676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    }
+  ],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
-  "cs": [],
-  "estadistica": []
+  "cs": [
+    {
+      "nombre": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+      "link": "http://arxiv.org/abs/2306.04338v1",
+      "pdf": "https://arxiv.org/pdf/2306.04338v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+      "link": "http://arxiv.org/abs/2201.12150v2",
+      "pdf": "https://arxiv.org/pdf/2201.12150v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+      "link": "http://arxiv.org/abs/2303.15563v1",
+      "pdf": "https://arxiv.org/pdf/2303.15563v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "A Benchmark Study of Machine Learning Models for Online Fake News Detection",
+      "link": "http://arxiv.org/abs/1905.04749v2",
+      "pdf": "https://arxiv.org/pdf/1905.04749v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning",
+      "link": "http://arxiv.org/abs/2602.11092v2",
+      "pdf": "https://arxiv.org/pdf/2602.11092v2",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning",
+      "link": "http://arxiv.org/abs/2509.08759v3",
+      "pdf": "https://arxiv.org/pdf/2509.08759v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in Large-Scale Machine Learning",
+      "link": "http://arxiv.org/abs/1906.01101v1",
+      "pdf": "https://arxiv.org/pdf/1906.01101v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory",
+      "link": "http://arxiv.org/abs/2404.12511v1",
+      "pdf": "https://arxiv.org/pdf/2404.12511v1",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data",
+      "link": "http://arxiv.org/abs/2402.01393v3",
+      "pdf": "https://arxiv.org/pdf/2402.01393v3",
+      "fuente": "arxiv",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Scikit-learn: Machine Learning in Python",
+      "link": "https://openalex.org/W2101234009",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Genetic algorithms in search, optimization, and machine learning",
+      "link": "https://openalex.org/W3023540311",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "C4.5: Programs for Machine Learning",
+      "link": "https://openalex.org/W2125055259",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Data Mining: Practical Machine Learning Tools and Techniques",
+      "link": "https://openalex.org/W1570448133",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "UCI Machine Learning Repository",
+      "link": "https://openalex.org/W3120740533",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Pattern Recognition and Machine Learning",
+      "link": "https://openalex.org/W1663973292",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Genetic Algorithms in Search, Optimization and Machine Learning",
+      "link": "https://openalex.org/W1639032689",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Proceedings of the 24th international conference on Machine learning",
+      "link": "https://openalex.org/W1583837637",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Machine learning a probabilistic perspective",
+      "link": "https://openalex.org/W1503398984",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Gaussian Processes for Machine Learning",
+      "link": "https://openalex.org/W1746819321",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Machine learning: Trends, perspectives, and prospects",
+      "link": "https://openalex.org/W1901616594",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Pattern Recognition and Machine Learning",
+      "link": "https://openalex.org/W4212863985",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Scikit-learn: Machine Learning in Python",
+      "link": "https://openalex.org/W2997591727",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "TensorFlow: A system for large-scale machine learning",
+      "link": "https://openalex.org/W2953384591",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "UCI Repository of machine learning databases",
+      "link": "https://openalex.org/W2084812512",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    }
+  ],
+  "estadistica": [
+    {
+      "nombre": "Probability and Statistics With Reliability, Queuing, and Computer Science Applications.",
+      "link": "https://openalex.org/W1992580876",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "computer science"
+    },
+    {
+      "nombre": "Analyzing complex functional brain networks: fusing statistics and network science to understand the brain",
+      "link": "http://arxiv.org/abs/1302.5721v3",
+      "pdf": "https://arxiv.org/pdf/1302.5721v3",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Equivalence of distance-based and RKHS-based statistics in hypothesis testing",
+      "link": "http://arxiv.org/abs/1207.6076v3",
+      "pdf": "https://arxiv.org/pdf/1207.6076v3",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Random fields of multivariate test statistics, with applications to shape analysis",
+      "link": "http://arxiv.org/abs/0803.1708v1",
+      "pdf": "https://arxiv.org/pdf/0803.1708v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Special section on statistics in the atmospheric sciences",
+      "link": "http://arxiv.org/abs/0901.3469v1",
+      "pdf": "https://arxiv.org/pdf/0901.3469v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Natural statistics for spectral samples",
+      "link": "http://arxiv.org/abs/1302.5892v2",
+      "pdf": "https://arxiv.org/pdf/1302.5892v2",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Optimal and fast detection of spatial clusters with scan statistics",
+      "link": "http://arxiv.org/abs/1002.4770v1",
+      "pdf": "https://arxiv.org/pdf/1002.4770v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Applied statistics: A review",
+      "link": "http://arxiv.org/abs/0708.3545v1",
+      "pdf": "https://arxiv.org/pdf/0708.3545v1",
+      "fuente": "arxiv",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Splitting of liftings in products of probability spaces",
+      "link": "http://arxiv.org/abs/math/0509010v1",
+      "pdf": "https://arxiv.org/pdf/math/0509010v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Optimal stopping under probability distortion",
+      "link": "http://arxiv.org/abs/1103.1755v2",
+      "pdf": "https://arxiv.org/pdf/1103.1755v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "What is the probability of intersecting the set of Brownian double points?",
+      "link": "http://arxiv.org/abs/math/0404105v3",
+      "pdf": "https://arxiv.org/pdf/math/0404105v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "The critical probability for random Voronoi percolation in the plane is 1/2",
+      "link": "http://arxiv.org/abs/math/0410336v2",
+      "pdf": "https://arxiv.org/pdf/math/0410336v2",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Asymptotics of the probability minimizing a \"down-side\" risk",
+      "link": "http://arxiv.org/abs/1001.2131v1",
+      "pdf": "https://arxiv.org/pdf/1001.2131v1",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Orthogonal polynomial ensembles in probability theory",
+      "link": "http://arxiv.org/abs/math/0403090v3",
+      "pdf": "https://arxiv.org/pdf/math/0403090v3",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Outperforming the market portfolio with a given probability",
+      "link": "http://arxiv.org/abs/1006.3224v6",
+      "pdf": "https://arxiv.org/pdf/1006.3224v6",
+      "fuente": "arxiv",
+      "dominio": "probability"
+    },
+    {
+      "nombre": "Lectures on the Combinatorics of Free Probability",
+      "link": "https://openalex.org/W591099569",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    }
+  ]
 }
