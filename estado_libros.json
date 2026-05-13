@@ -237,6 +237,20 @@
       "pdf": "https://arxiv.org/pdf/2211.01893v1",
       "fuente": "arxiv",
       "dominio": "combinatorics"
+    },
+    {
+      "nombre": "MHD analysis on the physical designs of CFETR and HFRC",
+      "link": "http://arxiv.org/abs/2107.11742v1",
+      "pdf": "https://arxiv.org/pdf/2107.11742v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physicists, Non Physical Topics, and Interdisciplinarity",
+      "link": "http://arxiv.org/abs/2210.13254v1",
+      "pdf": "https://arxiv.org/pdf/2210.13254v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
     }
   ],
   "fisica": [
@@ -246,6 +260,97 @@
       "pdf": "https://arxiv.org/pdf/2304.02381v2",
       "fuente": "arxiv",
       "dominio": "machine learning"
+    },
+    {
+      "nombre": "Physics Briefing Book",
+      "link": "http://arxiv.org/abs/1910.11775v2",
+      "pdf": "https://arxiv.org/pdf/1910.11775v2",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics and Technology of the Next Linear Collider: A Report Submitted to Snowmass '96",
+      "link": "http://arxiv.org/abs/hep-ex/9605011v1",
+      "pdf": "https://arxiv.org/pdf/hep-ex/9605011v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics at a future Neutrino Factory and super-beam facility",
+      "link": "http://arxiv.org/abs/0710.4947v3",
+      "pdf": "https://arxiv.org/pdf/0710.4947v3",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Machine Learning for Anomaly Detection in Particle Physics",
+      "link": "http://arxiv.org/abs/2312.14190v1",
+      "pdf": "https://arxiv.org/pdf/2312.14190v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Statistical physics of social dynamics",
+      "link": "http://arxiv.org/abs/0710.3256v2",
+      "pdf": "https://arxiv.org/pdf/0710.3256v2",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Impact of Detector Simulation in Particle Physics Collider Experiments",
+      "link": "http://arxiv.org/abs/1706.04293v1",
+      "pdf": "https://arxiv.org/pdf/1706.04293v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Machine learning meets quantum physics",
+      "link": "http://arxiv.org/abs/1903.03516v1",
+      "pdf": "https://arxiv.org/pdf/1903.03516v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Non-Hermitian Physics",
+      "link": "http://arxiv.org/abs/2006.01837v1",
+      "pdf": "https://arxiv.org/pdf/2006.01837v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "First Steps into Physics in the Winery",
+      "link": "http://arxiv.org/abs/1302.3767v1",
+      "pdf": "https://arxiv.org/pdf/1302.3767v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Reflections on the Fifth International Conference on Women in Physics",
+      "link": "http://arxiv.org/abs/2201.02276v1",
+      "pdf": "https://arxiv.org/pdf/2201.02276v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics the google way",
+      "link": "http://arxiv.org/abs/physics/0411198v1",
+      "pdf": "https://arxiv.org/pdf/physics/0411198v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Preparing Pre-Service Physics Teachers to Diagnose Students' Conceptions Not Covered by Physics Education Textbooks",
+      "link": "http://arxiv.org/abs/2208.14654v1",
+      "pdf": "https://arxiv.org/pdf/2208.14654v1",
+      "fuente": "arxiv",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Mathematical Physics : Problems and Solutions of The Students Training Contest Olympiad in Mathematical and Theoretical Physics (May 21st - 24th, 2010)",
+      "link": "http://arxiv.org/abs/1110.4864v2",
+      "pdf": "https://arxiv.org/pdf/1110.4864v2",
+      "fuente": "arxiv",
+      "dominio": "physics"
     }
   ],
   "quimica": [],
