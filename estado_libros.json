@@ -433,6 +433,111 @@
       "pdf": "https://arxiv.org/pdf/2012.10249v5",
       "fuente": "arxiv",
       "dominio": "analysis"
+    },
+    {
+      "nombre": "Algebraic topology",
+      "link": "https://www.semanticscholar.org/paper/0f1b9a40d81b92b4359e492c158272d61c2beefb",
+      "pdf": "https://link.springer.com/content/pdf/bfm:978-3-540-46160-9/1?pdf=chapter%20toc",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "The Geometry and Topology of Coxeter Groups",
+      "link": "https://www.semanticscholar.org/paper/f0e6e3fed3d74b862ce4240159df5ec2650a7f98",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes.",
+      "link": "https://www.semanticscholar.org/paper/05e7f7d5d5a08e0bcaca7497951c9560c546353d",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Consensus problems in networks of agents with switching topology and time-delays",
+      "link": "https://www.semanticscholar.org/paper/9839ed2281ba4b589bf88c7e4acc48c9fa6fb933",
+      "pdf": "https://authors.library.caltech.edu/5146/1/OLFieeetac04.pdf",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology",
+      "link": "https://www.semanticscholar.org/paper/a3bce1d9209335eb4c1b0f69d5b14e03a9c5b1f8",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology Optimization: \"Theory, Methods, And Applications\"",
+      "link": "https://www.semanticscholar.org/paper/9805dcb5d37630af0f9dece81acdfc9e9b35200f",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Toward Defining the Course of Evolution: Minimum Change for a Specific Tree Topology",
+      "link": "https://www.semanticscholar.org/paper/cbb0f3690661c288f1a383293a67d42218081e2c",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "General Topology",
+      "link": "https://www.semanticscholar.org/paper/ec34e45f7efbcf4d3e94d2b959cbc43d718a2816",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "On power-law relationships of the Internet topology",
+      "link": "https://www.semanticscholar.org/paper/1304be16c88152824b60288009c194f67ea181d3",
+      "pdf": "https://dl.acm.org/doi/pdf/10.1145/316188.316229",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq",
+      "link": "https://www.semanticscholar.org/paper/715852403fb0d8cd839f0ee3d98b9e61b08ca149",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
+      "link": "https://www.semanticscholar.org/paper/2f990f0e14d8e048cc74ceab393a1c94106fc868",
+      "pdf": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-019-1663-x",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition",
+      "link": "https://www.semanticscholar.org/paper/b5b717bd65678b9b980ae3f2aaea0396e87ab0e2",
+      "pdf": "https://arxiv.org/pdf/2107.12213",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "A 99 line topology optimization code written in Matlab",
+      "link": "https://www.semanticscholar.org/paper/e9331af59ba3ac3781ca5f036aefba7274a6e9ed",
+      "pdf": "http://orbit.dtu.dk/en/publications/a-99-line-topology-optimization-code-written-in-matlab(b0794468-93a9-4cca-87b3-b4224938859a).html",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "An innovative modular multilevel converter topology suitable for a wide power range",
+      "link": "https://www.semanticscholar.org/paper/d562e54f1da3e249a68e199fce62b67abec992f8",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Differential forms in algebraic topology",
+      "link": "https://www.semanticscholar.org/paper/4ac0eda2d75cce43fa56e60d22580c9b8f196e03",
+      "pdf": "",
+      "fuente": "semantic",
+      "dominio": "topology"
     }
   ],
   "fisica": [
