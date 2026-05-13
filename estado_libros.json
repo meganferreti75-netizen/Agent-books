@@ -119,7 +119,113 @@
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
-  "cs": [],
+  "cs": [
+    {
+      "nombre": "Scikit-learn: Machine Learning in Python",
+      "link": "https://openalex.org/W2101234009",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Genetic algorithms in search, optimization, and machine learning",
+      "link": "https://openalex.org/W3023540311",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "C4.5: Programs for Machine Learning",
+      "link": "https://openalex.org/W2125055259",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Data Mining: Practical Machine Learning Tools and Techniques",
+      "link": "https://openalex.org/W1570448133",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "UCI Machine Learning Repository",
+      "link": "https://openalex.org/W3120740533",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Pattern Recognition and Machine Learning",
+      "link": "https://openalex.org/W1663973292",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Genetic Algorithms in Search, Optimization and Machine Learning",
+      "link": "https://openalex.org/W1639032689",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Proceedings of the 24th international conference on Machine learning",
+      "link": "https://openalex.org/W1583837637",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Machine learning a probabilistic perspective",
+      "link": "https://openalex.org/W1503398984",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Gaussian Processes for Machine Learning",
+      "link": "https://openalex.org/W1746819321",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Machine learning: Trends, perspectives, and prospects",
+      "link": "https://openalex.org/W1901616594",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Pattern Recognition and Machine Learning",
+      "link": "https://openalex.org/W4212863985",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "Scikit-learn: Machine Learning in Python",
+      "link": "https://openalex.org/W2997591727",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "TensorFlow: A system for large-scale machine learning",
+      "link": "https://openalex.org/W2953384591",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    },
+    {
+      "nombre": "UCI Repository of machine learning databases",
+      "link": "https://openalex.org/W2084812512",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "machine learning"
+    }
+  ],
   "estadistica": [
     {
       "nombre": "An introduction to probability theory and its applications",
