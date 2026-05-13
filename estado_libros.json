@@ -925,6 +925,90 @@
       "pdf": "https://arxiv.org/pdf/2304.02381v2",
       "fuente": "arxiv",
       "dominio": "machine learning"
+    },
+    {
+      "nombre": "Introduction to Solid State Physics",
+      "link": "https://openalex.org/W2056722718",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics of Semiconductor Devices",
+      "link": "https://openalex.org/W3147289055",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Journal of Physics: Conference Series",
+      "link": "https://openalex.org/W2990714382",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Methods of Theoretical Physics",
+      "link": "https://openalex.org/W2032231305",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Physics of Semiconductor Devices",
+      "link": "https://openalex.org/W2490765418",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Introduction to Solid State Physics",
+      "link": "https://openalex.org/W4229499352",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "The Physics of Liquid Crystals",
+      "link": "https://openalex.org/W4388395150",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "PYTHIA 6.4 physics and manual",
+      "link": "https://openalex.org/W2258584306",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W2899140785",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W3084106382",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Review of Particle Physics",
+      "link": "https://openalex.org/W2252578136",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
+    },
+    {
+      "nombre": "Scaling concepts in polymer physics",
+      "link": "https://openalex.org/W225968618",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "physics"
     }
   ],
   "quimica": [
