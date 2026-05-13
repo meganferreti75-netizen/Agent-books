@@ -853,6 +853,104 @@
       "pdf": "https://arxiv.org/pdf/2004.06204v2",
       "fuente": "arxiv",
       "dominio": "number theory"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W2914659449",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "- Analytic combinatorics",
+      "link": "https://openalex.org/W2340541605",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W1551177513",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Analytic Combinatorics",
+      "link": "https://openalex.org/W186403072",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics on words",
+      "link": "https://openalex.org/W1514324498",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Handbook of Combinatorics",
+      "link": "https://openalex.org/W606453859",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Advanced Combinatorics",
+      "link": "https://openalex.org/W4212799367",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Algebraic Combinatorics on Words",
+      "link": "https://openalex.org/W1586417893",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "A Course in Combinatorics",
+      "link": "https://openalex.org/W1599335667",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics",
+      "link": "https://openalex.org/W4300302225",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics and Commutative Algebra",
+      "link": "https://openalex.org/W1515761639",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics of Coxeter Groups",
+      "link": "https://openalex.org/W112671161",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Enumerative Combinatorics: Volume 1",
+      "link": "https://openalex.org/W1579213680",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "The Combinatorics of Network Reliability",
+      "link": "https://openalex.org/W2117889403",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
     }
   ],
   "fisica": [
@@ -1671,6 +1769,13 @@
       "pdf": "https://arxiv.org/pdf/1006.3224v6",
       "fuente": "arxiv",
       "dominio": "probability"
+    },
+    {
+      "nombre": "Lectures on the Combinatorics of Free Probability",
+      "link": "https://openalex.org/W591099569",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "combinatorics"
     }
   ]
 }
