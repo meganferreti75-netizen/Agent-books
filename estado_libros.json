@@ -4379,6 +4379,86 @@
     {
       "nombre": "Discussion of: Statistical analysis of an archeological find",
       "link": "http://arxiv.org/abs/0804.0095v1"
+    },
+    {
+      "nombre": "Partitioning Perfect Graphs into Stars",
+      "link": "http://arxiv.org/abs/1402.2589v3"
+    },
+    {
+      "nombre": "Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It",
+      "link": "http://arxiv.org/abs/hep-th/9707234v2"
+    },
+    {
+      "nombre": "Counting cliques without generalized theta graphs",
+      "link": "http://arxiv.org/abs/2311.15289v2"
+    },
+    {
+      "nombre": "A limit theorem for small cliques in inhomogeneous random graphs",
+      "link": "http://arxiv.org/abs/1903.10570v3"
+    },
+    {
+      "nombre": "Every longest circuit of a 3-connected, $K_{3,3}$-minor free graph has a chord",
+      "link": "http://arxiv.org/abs/0711.2360v2"
+    },
+    {
+      "nombre": "The Great Inequality In A Hamiltonian Planetary Theory",
+      "link": "http://arxiv.org/abs/chao-dyn/9311011v2"
+    },
+    {
+      "nombre": "Planar Induced Subgraphs of Sparse Graphs",
+      "link": "http://arxiv.org/abs/1408.5939v2"
+    },
+    {
+      "nombre": "$L(p,q)$-Labeling of Graphs with Interval Representations",
+      "link": "http://arxiv.org/abs/1909.05425v2"
+    },
+    {
+      "nombre": "Recursion relations for chromatic coefficients for graphs and hypergraphs",
+      "link": "http://arxiv.org/abs/1901.00899v2"
+    },
+    {
+      "nombre": "Template-Based Graph Clustering",
+      "link": "http://arxiv.org/abs/2107.01994v1"
+    },
+    {
+      "nombre": "The number and average size of connected sets in graphs with degree constraints",
+      "link": "http://arxiv.org/abs/2105.13332v2"
+    },
+    {
+      "nombre": "The Galois Complexity of Graph Drawing: Why Numerical Solutions are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings",
+      "link": "http://arxiv.org/abs/1408.1422v1"
+    },
+    {
+      "nombre": "Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and Their Groups",
+      "link": "http://arxiv.org/abs/math/0209316v3"
+    },
+    {
+      "nombre": "Tuza's Conjecture for Threshold Graphs",
+      "link": "http://arxiv.org/abs/2105.09871v3"
+    },
+    {
+      "nombre": "Regularity and Planarity of Token Graphs",
+      "link": "http://arxiv.org/abs/1510.00424v2"
+    },
+    {
+      "nombre": "Partition functions and a generalized coloring-flow duality for embedded graphs",
+      "link": "http://arxiv.org/abs/1701.00420v2"
+    },
+    {
+      "nombre": "Crossing Minimization for 1-page and 2-page Drawings of Graphs with Bounded Treewidth",
+      "link": "http://arxiv.org/abs/1408.6321v1"
+    },
+    {
+      "nombre": "Hamiltonian chromatic number of block graphs",
+      "link": "http://arxiv.org/abs/1901.05839v1"
+    },
+    {
+      "nombre": "Cliques in Squares of Graphs with Maximum Average Degree less than 4",
+      "link": "http://arxiv.org/abs/2305.11763v2"
+    },
+    {
+      "nombre": "Graph Rewriting and Relabeling with PBPO+",
+      "link": "http://arxiv.org/abs/2010.08230v3"
     }
   ],
   "fisica": [
