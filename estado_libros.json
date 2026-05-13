@@ -113,5 +113,111 @@
   "arte": [],
   "ingenieria": [],
   "cs": [],
-  "estadistica": []
+  "estadistica": [
+    {
+      "nombre": "Using multivariate statistics",
+      "link": "https://openalex.org/W1484864026",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Global cancer statistics",
+      "link": "https://openalex.org/W2106787323",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries",
+      "link": "https://openalex.org/W3128646645",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
+      "link": "https://openalex.org/W2889646458",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Discovering Statistics Using SPSS",
+      "link": "https://openalex.org/W1573234480",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Nonparametric Statistics for the Behavioral Sciences",
+      "link": "https://openalex.org/W2002664886",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Global cancer statistics, 2012",
+      "link": "https://openalex.org/W2917837889",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Discovering Statistics Using Ibm Spss Statistics",
+      "link": "https://openalex.org/W2249595199",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Cancer statistics, 2019",
+      "link": "https://openalex.org/W2911188335",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Cancer statistics, 2020",
+      "link": "https://openalex.org/W2999417355",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Principles and procedures of statistics.",
+      "link": "https://openalex.org/W1992897439",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Modern Applied Statistics with S",
+      "link": "https://openalex.org/W1513618424",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Cancer statistics, 2022",
+      "link": "https://openalex.org/W4206841660",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Cancer Statistics, 2021",
+      "link": "https://openalex.org/W3119005666",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    },
+    {
+      "nombre": "Cancer statistics, 2023",
+      "link": "https://openalex.org/W4315754639",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "statistics"
+    }
+  ]
 }
