@@ -951,6 +951,104 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Partitioning Perfect Graphs into Stars",
+      "link": "http://arxiv.org/abs/1402.2589v3",
+      "pdf": "https://arxiv.org/pdf/1402.2589v3",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Counting cliques without generalized theta graphs",
+      "link": "http://arxiv.org/abs/2311.15289v2",
+      "pdf": "https://arxiv.org/pdf/2311.15289v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "A limit theorem for small cliques in inhomogeneous random graphs",
+      "link": "http://arxiv.org/abs/1903.10570v3",
+      "pdf": "https://arxiv.org/pdf/1903.10570v3",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Every longest circuit of a 3-connected, $K_{3,3}$-minor free graph has a chord",
+      "link": "http://arxiv.org/abs/0711.2360v2",
+      "pdf": "https://arxiv.org/pdf/0711.2360v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "The Great Inequality In A Hamiltonian Planetary Theory",
+      "link": "http://arxiv.org/abs/chao-dyn/9311011v2",
+      "pdf": "https://arxiv.org/pdf/chao-dyn/9311011v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Planar Induced Subgraphs of Sparse Graphs",
+      "link": "http://arxiv.org/abs/1408.5939v2",
+      "pdf": "https://arxiv.org/pdf/1408.5939v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "$L(p,q)$-Labeling of Graphs with Interval Representations",
+      "link": "http://arxiv.org/abs/1909.05425v2",
+      "pdf": "https://arxiv.org/pdf/1909.05425v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Recursion relations for chromatic coefficients for graphs and hypergraphs",
+      "link": "http://arxiv.org/abs/1901.00899v2",
+      "pdf": "https://arxiv.org/pdf/1901.00899v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Template-Based Graph Clustering",
+      "link": "http://arxiv.org/abs/2107.01994v1",
+      "pdf": "https://arxiv.org/pdf/2107.01994v1",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "The number and average size of connected sets in graphs with degree constraints",
+      "link": "http://arxiv.org/abs/2105.13332v2",
+      "pdf": "https://arxiv.org/pdf/2105.13332v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "The Galois Complexity of Graph Drawing: Why Numerical Solutions are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings",
+      "link": "http://arxiv.org/abs/1408.1422v1",
+      "pdf": "https://arxiv.org/pdf/1408.1422v1",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and Their Groups",
+      "link": "http://arxiv.org/abs/math/0209316v3",
+      "pdf": "https://arxiv.org/pdf/math/0209316v3",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Tuza's Conjecture for Threshold Graphs",
+      "link": "http://arxiv.org/abs/2105.09871v3",
+      "pdf": "https://arxiv.org/pdf/2105.09871v3",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
+    },
+    {
+      "nombre": "Regularity and Planarity of Token Graphs",
+      "link": "http://arxiv.org/abs/1510.00424v2",
+      "pdf": "https://arxiv.org/pdf/1510.00424v2",
+      "fuente": "arxiv",
+      "dominio": "graph theory"
     }
   ],
   "fisica": [
