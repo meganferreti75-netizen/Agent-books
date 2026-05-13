@@ -111,6 +111,97 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "chemistry"
+    },
+    {
+      "nombre": "Points of convergence -- music meets mathematics",
+      "link": "http://arxiv.org/abs/2309.06595v1",
+      "pdf": "https://arxiv.org/pdf/2309.06595v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Quantum GestART: Identifying and Applying Correlations between Mathematics, Art, and Perceptual Organization",
+      "link": "http://arxiv.org/abs/2001.00001v2",
+      "pdf": "https://arxiv.org/pdf/2001.00001v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Bridging knowing and proving in mathematics An essay from a didactical perspective",
+      "link": "http://arxiv.org/abs/1403.6926v1",
+      "pdf": "https://arxiv.org/pdf/1403.6926v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Licensing the Mizar Mathematical Library",
+      "link": "http://arxiv.org/abs/1107.3212v1",
+      "pdf": "https://arxiv.org/pdf/1107.3212v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "mizar-items: Exploring fine-grained dependencies in the Mizar Mathematical Library",
+      "link": "http://arxiv.org/abs/1107.4721v2",
+      "pdf": "https://arxiv.org/pdf/1107.4721v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Constructive mathematics and teaching",
+      "link": "http://arxiv.org/abs/2305.19882v1",
+      "pdf": "https://arxiv.org/pdf/2305.19882v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "The Call of Mathematics",
+      "link": "http://arxiv.org/abs/0705.4123v1",
+      "pdf": "https://arxiv.org/pdf/0705.4123v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Advanced Mathematical Business Strategy Formulation Design",
+      "link": "http://arxiv.org/abs/1908.06890v3",
+      "pdf": "https://arxiv.org/pdf/1908.06890v3",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Opportunities at the Mathematics/Future Cities Interface",
+      "link": "http://arxiv.org/abs/1409.1831v1",
+      "pdf": "https://arxiv.org/pdf/1409.1831v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Is the study of Indigenous mathematics ill-directed or beneficial?",
+      "link": "http://arxiv.org/abs/2212.02778v1",
+      "pdf": "https://arxiv.org/pdf/2212.02778v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Mathematical Analysis, Forecasting and Optimal Control of HIV/AIDS Spatiotemporal Transmission with a Reaction Diffusion SICA Model",
+      "link": "http://arxiv.org/abs/2207.02527v1",
+      "pdf": "https://arxiv.org/pdf/2207.02527v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Some pros and cons of implementing parallel and block teachings for mathematics modules",
+      "link": "http://arxiv.org/abs/1810.07365v1",
+      "pdf": "https://arxiv.org/pdf/1810.07365v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Tension between Intuitive Infinitesimals and Formal Mathematical Analysis",
+      "link": "http://arxiv.org/abs/1110.5747v1",
+      "pdf": "https://arxiv.org/pdf/1110.5747v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
     }
   ],
   "fisica": [
@@ -134,6 +225,20 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "chemistry"
+    },
+    {
+      "nombre": "A moonshine dialogue in mathematical physics",
+      "link": "http://arxiv.org/abs/1503.02677v2",
+      "pdf": "https://arxiv.org/pdf/1503.02677v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Idempotent and tropical mathematics and problems of mathematical physics (Volume I)",
+      "link": "http://arxiv.org/abs/0710.0377v1",
+      "pdf": "https://arxiv.org/pdf/0710.0377v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
     }
   ],
   "quimica": [
