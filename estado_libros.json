@@ -538,6 +538,111 @@
       "pdf": "",
       "fuente": "semantic",
       "dominio": "topology"
+    },
+    {
+      "nombre": "Multiple View Geometry in Computer Vision",
+      "link": "https://openalex.org/W2033819227",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "<i>The Fractal Geometry of Nature</i>",
+      "link": "https://openalex.org/W2078206416",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "The Fractal Geometry of Nature.",
+      "link": "https://openalex.org/W2800860906",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Algebraic Geometry",
+      "link": "https://openalex.org/W4248269519",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Principles of Algebraic Geometry",
+      "link": "https://openalex.org/W1515192744",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Fractal Geometry: Mathematical Foundations and Applications.",
+      "link": "https://openalex.org/W2032121576",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Foundations of Differential Geometry",
+      "link": "https://openalex.org/W2089465567",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry--An Introduction.",
+      "link": "https://openalex.org/W2005314985",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "The Fractal Geometry of Nature",
+      "link": "https://openalex.org/W2964631455",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Differential Geometry, Lie Groups, and Symmetric Spaces",
+      "link": "https://openalex.org/W1983894121",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry",
+      "link": "https://openalex.org/W2911302472",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Stochastic Geometry and its Applications",
+      "link": "https://openalex.org/W2118166339",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Computational Geometry: Algorithms and Applications",
+      "link": "https://openalex.org/W2149906774",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Van der Waals Density Functional for General Geometries",
+      "link": "https://openalex.org/W2003193361",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
+    },
+    {
+      "nombre": "Differential geometry of curves and surfaces",
+      "link": "https://openalex.org/W1565212980",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "geometry"
     }
   ],
   "fisica": [
