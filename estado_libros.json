@@ -1202,6 +1202,111 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "biology"
+    },
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W1898014694",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Power failure: why small sample size undermines the reliability of neuroscience",
+      "link": "https://openalex.org/W2105824687",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience",
+      "link": "https://openalex.org/W4388250061",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Dynamical Systems in Neuroscience",
+      "link": "https://openalex.org/W1576838367",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+      "link": "https://openalex.org/W1849553904",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Network neuroscience",
+      "link": "https://openalex.org/W4211091012",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Representational similarity analysis – connecting the branches of systems neuroscience",
+      "link": "https://openalex.org/W2160654481",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "A social neuroscience perspective on adolescent risk-taking",
+      "link": "https://openalex.org/W2088180824",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems",
+      "link": "https://openalex.org/W1512746852",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W3141850914",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The neuroscience of mindfulness meditation",
+      "link": "https://openalex.org/W2026267776",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Computational principles of movement neuroscience",
+      "link": "https://openalex.org/W1779974355",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "New cognitive neurosciences",
+      "link": "https://openalex.org/W2600536710",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Circular analysis in systems neuroscience: the dangers of double dipping",
+      "link": "https://openalex.org/W2015866962",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Philosophical Foundations of Neuroscience",
+      "link": "https://openalex.org/W2035697676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
     }
   ],
   "filosofia": [],
