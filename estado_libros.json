@@ -4231,6 +4231,86 @@
     {
       "nombre": "A randomized algorithm for principal component analysis",
       "link": "http://arxiv.org/abs/0809.2274v4"
+    },
+    {
+      "nombre": "Propositional computability logic I",
+      "link": "http://arxiv.org/abs/cs/0404023v2"
+    },
+    {
+      "nombre": "A Neutral Temporal Deontic STIT Logic",
+      "link": "http://arxiv.org/abs/1907.03265v4"
+    },
+    {
+      "nombre": "Towards applied theories based on computability logic",
+      "link": "http://arxiv.org/abs/0805.3521v4"
+    },
+    {
+      "nombre": "Modal Extensions of Łukasiewicz Logic for Modeling Coalitional Power",
+      "link": "http://arxiv.org/abs/1411.6452v3"
+    },
+    {
+      "nombre": "Topological Modal Logics with Difference Modality",
+      "link": "http://arxiv.org/abs/1011.5687v1"
+    },
+    {
+      "nombre": "The complexity of admissible rules of Łukasiewicz logic",
+      "link": "http://arxiv.org/abs/1108.6261v2"
+    },
+    {
+      "nombre": "Logic of left variable inclusion and Plonka sums of matrices",
+      "link": "http://arxiv.org/abs/1804.08897v4"
+    },
+    {
+      "nombre": "From Intuitionism to Many-Valued Logics through Kripke Models",
+      "link": "http://arxiv.org/abs/2008.09016v1"
+    },
+    {
+      "nombre": "On three-valued presentations of classical logic",
+      "link": "http://arxiv.org/abs/2312.16035v1"
+    },
+    {
+      "nombre": "The prospects for mathematical logic in the twenty-first century",
+      "link": "http://arxiv.org/abs/cs/0205003v1"
+    },
+    {
+      "nombre": "Embedding Defeasible Logic into Logic Programming",
+      "link": "http://arxiv.org/abs/cs/0511055v1"
+    },
+    {
+      "nombre": "Syllogistic Logic with Cardinality Comparisons, On Infinite Sets",
+      "link": "http://arxiv.org/abs/1705.03037v1"
+    },
+    {
+      "nombre": "Quantitative Logic Reasoning",
+      "link": "http://arxiv.org/abs/1905.05665v1"
+    },
+    {
+      "nombre": "Disjunctive Logic Programs with Inheritance",
+      "link": "http://arxiv.org/abs/cs/0105036v2"
+    },
+    {
+      "nombre": "Category theory, logic and formal linguistics: some connections, old and new",
+      "link": "http://arxiv.org/abs/1401.6574v1"
+    },
+    {
+      "nombre": "Papers presented at the 32nd International Conference on Logic Programming (ICLP 2016)",
+      "link": "http://arxiv.org/abs/1608.05440v1"
+    },
+    {
+      "nombre": "Optimizing Probabilities in Probabilistic Logic Programs",
+      "link": "http://arxiv.org/abs/2108.03095v1"
+    },
+    {
+      "nombre": "Splitting Epistemic Logic Programs",
+      "link": "http://arxiv.org/abs/1812.08763v2"
+    },
+    {
+      "nombre": "Inference and learning in probabilistic logic programs using weighted Boolean formulas",
+      "link": "http://arxiv.org/abs/1304.6810v1"
+    },
+    {
+      "nombre": "Integrating Belief Domains into Probabilistic Logic Programs",
+      "link": "http://arxiv.org/abs/2507.17291v2"
     }
   ],
   "fisica": [
