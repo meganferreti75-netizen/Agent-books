@@ -139,6 +139,13 @@
       "pdf": "https://arxiv.org/pdf/0712.1458v1",
       "fuente": "arxiv",
       "dominio": "statistics"
+    },
+    {
+      "nombre": "The chemistry of graphene oxide",
+      "link": "https://openalex.org/W2135479172",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
     }
   ],
   "fisica": [
@@ -183,6 +190,27 @@
       "pdf": "https://arxiv.org/pdf/0811.1663v1",
       "fuente": "arxiv",
       "dominio": "statistics"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2132905138",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2964344211",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Handbook of chemistry and physics",
+      "link": "https://openalex.org/W2739616593",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
     }
   ],
   "quimica": [
@@ -254,6 +282,83 @@
       "link": "https://www.semanticscholar.org/paper/05b9e01b36be8f688cdbd7131b89920fa46ac048",
       "pdf": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
       "fuente": "semantic",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Advanced inorganic chemistry",
+      "link": "https://openalex.org/W1523417784",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of Polymer Chemistry.",
+      "link": "https://openalex.org/W2314659927",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of polymer chemistry",
+      "link": "https://openalex.org/W1505352099",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Physical chemistry of surfaces",
+      "link": "https://openalex.org/W2062070676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Supramolecular Chemistry",
+      "link": "https://openalex.org/W29179573",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Chemistry with ADF",
+      "link": "https://openalex.org/W2150345533",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The Chemistry and Applications of Metal-Organic Frameworks",
+      "link": "https://openalex.org/W2141939342",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Green Chemistry: Theory and Practice",
+      "link": "https://openalex.org/W1523818626",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Click Chemistry: Diverse Chemical Function from a Few Good Reactions",
+      "link": "https://openalex.org/W4256503849",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "link": "https://openalex.org/W2593436234",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Fluorine in medicinal chemistry",
+      "link": "https://openalex.org/W2116087305",
+      "pdf": null,
+      "fuente": "openalex",
       "dominio": "chemistry"
     }
   ],
