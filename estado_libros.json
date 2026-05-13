@@ -230,6 +230,111 @@
       "pdf": "https://arxiv.org/pdf/2208.02585v2",
       "fuente": "arxiv",
       "dominio": "probability"
+    },
+    {
+      "nombre": "The combinatorics of Jeff Remmel",
+      "link": "http://arxiv.org/abs/2102.07269v1",
+      "pdf": "https://arxiv.org/pdf/2102.07269v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On the combinatorics of Forrester-Baxter models",
+      "link": "http://arxiv.org/abs/math/0002100v1",
+      "pdf": "https://arxiv.org/pdf/math/0002100v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Finite field models in additive combinatorics",
+      "link": "http://arxiv.org/abs/math/0409420v1",
+      "pdf": "https://arxiv.org/pdf/math/0409420v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Symmetric Functions and Rectangular Catalan Combinatorics",
+      "link": "http://arxiv.org/abs/2112.09799v1",
+      "pdf": "https://arxiv.org/pdf/2112.09799v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Finite field models in arithmetic combinatorics -- twenty years on",
+      "link": "http://arxiv.org/abs/2312.08100v1",
+      "pdf": "https://arxiv.org/pdf/2312.08100v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Dungeons and Dragons: Combinatorics for the $dP_3$ Quiver",
+      "link": "http://arxiv.org/abs/1805.09280v3",
+      "pdf": "https://arxiv.org/pdf/1805.09280v3",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On combinatorics of quiver component formulas",
+      "link": "http://arxiv.org/abs/math/0307019v1",
+      "pdf": "https://arxiv.org/pdf/math/0307019v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "The combinatorics of frieze patterns and Markoff numbers",
+      "link": "http://arxiv.org/abs/math/0511633v5",
+      "pdf": "https://arxiv.org/pdf/math/0511633v5",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Graphical Designs and Extremal Combinatorics",
+      "link": "http://arxiv.org/abs/1910.05966v2",
+      "pdf": "https://arxiv.org/pdf/1910.05966v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Hopf algebras and the combinatorics of connected graphs in quantum field theory",
+      "link": "http://arxiv.org/abs/0808.1070v2",
+      "pdf": "https://arxiv.org/pdf/0808.1070v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Hirzebruch-type inequalities viewed as tools in combinatorics",
+      "link": "http://arxiv.org/abs/1808.09167v4",
+      "pdf": "https://arxiv.org/pdf/1808.09167v4",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Combinatorics of nondeterministic walks of the Dyck and Motzkin type",
+      "link": "http://arxiv.org/abs/1812.06650v1",
+      "pdf": "https://arxiv.org/pdf/1812.06650v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "On f- and h- vectors of relative simplicial complexes",
+      "link": "http://arxiv.org/abs/1711.02729v2",
+      "pdf": "https://arxiv.org/pdf/1711.02729v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "Chain algebras of finite distributive lattices",
+      "link": "http://arxiv.org/abs/2304.04810v2",
+      "pdf": "https://arxiv.org/pdf/2304.04810v2",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
+    },
+    {
+      "nombre": "A Walk Through Some Newer Parts of Additive Combinatorics",
+      "link": "http://arxiv.org/abs/2211.01893v1",
+      "pdf": "https://arxiv.org/pdf/2211.01893v1",
+      "fuente": "arxiv",
+      "dominio": "combinatorics"
     }
   ],
   "fisica": [
