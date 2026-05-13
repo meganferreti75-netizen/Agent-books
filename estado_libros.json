@@ -1,541 +1,118 @@
 {
   "matematicas": [
     {
-      "nombre": "Partitioning Perfect Graphs into Stars",
-      "link": "http://arxiv.org/abs/1402.2589v3",
-      "pdf": "https://arxiv.org/pdf/1402.2589v3",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It",
-      "link": "http://arxiv.org/abs/hep-th/9707234v2",
-      "pdf": "https://arxiv.org/pdf/hep-th/9707234v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Counting cliques without generalized theta graphs",
-      "link": "http://arxiv.org/abs/2311.15289v2",
-      "pdf": "https://arxiv.org/pdf/2311.15289v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "A limit theorem for small cliques in inhomogeneous random graphs",
-      "link": "http://arxiv.org/abs/1903.10570v3",
-      "pdf": "https://arxiv.org/pdf/1903.10570v3",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Every longest circuit of a 3-connected, $K_{3,3}$-minor free graph has a chord",
-      "link": "http://arxiv.org/abs/0711.2360v2",
-      "pdf": "https://arxiv.org/pdf/0711.2360v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "The Great Inequality In A Hamiltonian Planetary Theory",
-      "link": "http://arxiv.org/abs/chao-dyn/9311011v2",
-      "pdf": "https://arxiv.org/pdf/chao-dyn/9311011v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Planar Induced Subgraphs of Sparse Graphs",
-      "link": "http://arxiv.org/abs/1408.5939v2",
-      "pdf": "https://arxiv.org/pdf/1408.5939v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "$L(p,q)$-Labeling of Graphs with Interval Representations",
-      "link": "http://arxiv.org/abs/1909.05425v2",
-      "pdf": "https://arxiv.org/pdf/1909.05425v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Recursion relations for chromatic coefficients for graphs and hypergraphs",
-      "link": "http://arxiv.org/abs/1901.00899v2",
-      "pdf": "https://arxiv.org/pdf/1901.00899v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Template-Based Graph Clustering",
-      "link": "http://arxiv.org/abs/2107.01994v1",
-      "pdf": "https://arxiv.org/pdf/2107.01994v1",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "The number and average size of connected sets in graphs with degree constraints",
-      "link": "http://arxiv.org/abs/2105.13332v2",
-      "pdf": "https://arxiv.org/pdf/2105.13332v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "The Galois Complexity of Graph Drawing: Why Numerical Solutions are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings",
-      "link": "http://arxiv.org/abs/1408.1422v1",
-      "pdf": "https://arxiv.org/pdf/1408.1422v1",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and Their Groups",
-      "link": "http://arxiv.org/abs/math/0209316v3",
-      "pdf": "https://arxiv.org/pdf/math/0209316v3",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Tuza's Conjecture for Threshold Graphs",
-      "link": "http://arxiv.org/abs/2105.09871v3",
-      "pdf": "https://arxiv.org/pdf/2105.09871v3",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Regularity and Planarity of Token Graphs",
-      "link": "http://arxiv.org/abs/1510.00424v2",
-      "pdf": "https://arxiv.org/pdf/1510.00424v2",
-      "fuente": "arxiv",
-      "dominio": "graph theory"
-    },
-    {
-      "nombre": "Active learning for data streams: a survey",
-      "link": "http://arxiv.org/abs/2302.08893v4",
-      "pdf": "https://arxiv.org/pdf/2302.08893v4",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Emotion in Reinforcement Learning Agents and Robots: A Survey",
-      "link": "http://arxiv.org/abs/1705.05172v1",
-      "pdf": "https://arxiv.org/pdf/1705.05172v1",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Learning Representations from Dendrograms",
-      "link": "http://arxiv.org/abs/1812.09225v4",
-      "pdf": "https://arxiv.org/pdf/1812.09225v4",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Unsupervised Representation Learning with Minimax Distance Measures",
-      "link": "http://arxiv.org/abs/1904.13223v3",
-      "pdf": "https://arxiv.org/pdf/1904.13223v3",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "The combinatorics of Jeff Remmel",
-      "link": "http://arxiv.org/abs/2102.07269v1",
-      "pdf": "https://arxiv.org/pdf/2102.07269v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "On the combinatorics of Forrester-Baxter models",
-      "link": "http://arxiv.org/abs/math/0002100v1",
-      "pdf": "https://arxiv.org/pdf/math/0002100v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Finite field models in additive combinatorics",
-      "link": "http://arxiv.org/abs/math/0409420v1",
-      "pdf": "https://arxiv.org/pdf/math/0409420v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Symmetric Functions and Rectangular Catalan Combinatorics",
-      "link": "http://arxiv.org/abs/2112.09799v1",
-      "pdf": "https://arxiv.org/pdf/2112.09799v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Finite field models in arithmetic combinatorics -- twenty years on",
-      "link": "http://arxiv.org/abs/2312.08100v1",
-      "pdf": "https://arxiv.org/pdf/2312.08100v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Dungeons and Dragons: Combinatorics for the $dP_3$ Quiver",
-      "link": "http://arxiv.org/abs/1805.09280v3",
-      "pdf": "https://arxiv.org/pdf/1805.09280v3",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "On combinatorics of quiver component formulas",
-      "link": "http://arxiv.org/abs/math/0307019v1",
-      "pdf": "https://arxiv.org/pdf/math/0307019v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "The combinatorics of frieze patterns and Markoff numbers",
-      "link": "http://arxiv.org/abs/math/0511633v5",
-      "pdf": "https://arxiv.org/pdf/math/0511633v5",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Graphical Designs and Extremal Combinatorics",
-      "link": "http://arxiv.org/abs/1910.05966v2",
-      "pdf": "https://arxiv.org/pdf/1910.05966v2",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Hopf algebras and the combinatorics of connected graphs in quantum field theory",
-      "link": "http://arxiv.org/abs/0808.1070v2",
-      "pdf": "https://arxiv.org/pdf/0808.1070v2",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Hirzebruch-type inequalities viewed as tools in combinatorics",
-      "link": "http://arxiv.org/abs/1808.09167v4",
-      "pdf": "https://arxiv.org/pdf/1808.09167v4",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Combinatorics of nondeterministic walks of the Dyck and Motzkin type",
-      "link": "http://arxiv.org/abs/1812.06650v1",
-      "pdf": "https://arxiv.org/pdf/1812.06650v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "On f- and h- vectors of relative simplicial complexes",
-      "link": "http://arxiv.org/abs/1711.02729v2",
-      "pdf": "https://arxiv.org/pdf/1711.02729v2",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "Chain algebras of finite distributive lattices",
-      "link": "http://arxiv.org/abs/2304.04810v2",
-      "pdf": "https://arxiv.org/pdf/2304.04810v2",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "A Walk Through Some Newer Parts of Additive Combinatorics",
-      "link": "http://arxiv.org/abs/2211.01893v1",
-      "pdf": "https://arxiv.org/pdf/2211.01893v1",
-      "fuente": "arxiv",
-      "dominio": "combinatorics"
-    },
-    {
-      "nombre": "MHD analysis on the physical designs of CFETR and HFRC",
-      "link": "http://arxiv.org/abs/2107.11742v1",
-      "pdf": "https://arxiv.org/pdf/2107.11742v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Physicists, Non Physical Topics, and Interdisciplinarity",
-      "link": "http://arxiv.org/abs/2210.13254v1",
-      "pdf": "https://arxiv.org/pdf/2210.13254v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
+      "nombre": "Upper and Lower Probabilities Induced by a Multivalued Mapping",
+      "link": "https://openalex.org/W2406470551",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "probability"
     }
   ],
-  "fisica": [
-    {
-      "nombre": "Physics-Inspired Interpretability Of Machine Learning Models",
-      "link": "http://arxiv.org/abs/2304.02381v2",
-      "pdf": "https://arxiv.org/pdf/2304.02381v2",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Physics Briefing Book",
-      "link": "http://arxiv.org/abs/1910.11775v2",
-      "pdf": "https://arxiv.org/pdf/1910.11775v2",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Physics and Technology of the Next Linear Collider: A Report Submitted to Snowmass '96",
-      "link": "http://arxiv.org/abs/hep-ex/9605011v1",
-      "pdf": "https://arxiv.org/pdf/hep-ex/9605011v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Physics at a future Neutrino Factory and super-beam facility",
-      "link": "http://arxiv.org/abs/0710.4947v3",
-      "pdf": "https://arxiv.org/pdf/0710.4947v3",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Machine Learning for Anomaly Detection in Particle Physics",
-      "link": "http://arxiv.org/abs/2312.14190v1",
-      "pdf": "https://arxiv.org/pdf/2312.14190v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Statistical physics of social dynamics",
-      "link": "http://arxiv.org/abs/0710.3256v2",
-      "pdf": "https://arxiv.org/pdf/0710.3256v2",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Impact of Detector Simulation in Particle Physics Collider Experiments",
-      "link": "http://arxiv.org/abs/1706.04293v1",
-      "pdf": "https://arxiv.org/pdf/1706.04293v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Machine learning meets quantum physics",
-      "link": "http://arxiv.org/abs/1903.03516v1",
-      "pdf": "https://arxiv.org/pdf/1903.03516v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Non-Hermitian Physics",
-      "link": "http://arxiv.org/abs/2006.01837v1",
-      "pdf": "https://arxiv.org/pdf/2006.01837v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "First Steps into Physics in the Winery",
-      "link": "http://arxiv.org/abs/1302.3767v1",
-      "pdf": "https://arxiv.org/pdf/1302.3767v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Reflections on the Fifth International Conference on Women in Physics",
-      "link": "http://arxiv.org/abs/2201.02276v1",
-      "pdf": "https://arxiv.org/pdf/2201.02276v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Physics the google way",
-      "link": "http://arxiv.org/abs/physics/0411198v1",
-      "pdf": "https://arxiv.org/pdf/physics/0411198v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Preparing Pre-Service Physics Teachers to Diagnose Students' Conceptions Not Covered by Physics Education Textbooks",
-      "link": "http://arxiv.org/abs/2208.14654v1",
-      "pdf": "https://arxiv.org/pdf/2208.14654v1",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    },
-    {
-      "nombre": "Mathematical Physics : Problems and Solutions of The Students Training Contest Olympiad in Mathematical and Theoretical Physics (May 21st - 24th, 2010)",
-      "link": "http://arxiv.org/abs/1110.4864v2",
-      "pdf": "https://arxiv.org/pdf/1110.4864v2",
-      "fuente": "arxiv",
-      "dominio": "physics"
-    }
-  ],
+  "fisica": [],
   "quimica": [],
-  "biologia": [
-    {
-      "nombre": "DOME: Recommendations for supervised machine learning validation in biology",
-      "link": "http://arxiv.org/abs/2006.16189v4",
-      "pdf": "https://arxiv.org/pdf/2006.16189v4",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    }
-  ],
+  "biologia": [],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
-  "cs": [
-    {
-      "nombre": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
-      "link": "http://arxiv.org/abs/2306.04338v1",
-      "pdf": "https://arxiv.org/pdf/2306.04338v1",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
-      "link": "http://arxiv.org/abs/2201.12150v2",
-      "pdf": "https://arxiv.org/pdf/2201.12150v2",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
-      "link": "http://arxiv.org/abs/2303.15563v1",
-      "pdf": "https://arxiv.org/pdf/2303.15563v1",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "A Benchmark Study of Machine Learning Models for Online Fake News Detection",
-      "link": "http://arxiv.org/abs/1905.04749v2",
-      "pdf": "https://arxiv.org/pdf/1905.04749v2",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning",
-      "link": "http://arxiv.org/abs/2602.11092v2",
-      "pdf": "https://arxiv.org/pdf/2602.11092v2",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning",
-      "link": "http://arxiv.org/abs/2509.08759v3",
-      "pdf": "https://arxiv.org/pdf/2509.08759v3",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "MEMe: An Accurate Maximum Entropy Method for Efficient Approximations in Large-Scale Machine Learning",
-      "link": "http://arxiv.org/abs/1906.01101v1",
-      "pdf": "https://arxiv.org/pdf/1906.01101v1",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory",
-      "link": "http://arxiv.org/abs/2404.12511v1",
-      "pdf": "https://arxiv.org/pdf/2404.12511v1",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    },
-    {
-      "nombre": "ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data",
-      "link": "http://arxiv.org/abs/2402.01393v3",
-      "pdf": "https://arxiv.org/pdf/2402.01393v3",
-      "fuente": "arxiv",
-      "dominio": "machine learning"
-    }
-  ],
+  "cs": [],
   "estadistica": [
     {
-      "nombre": "Using multivariate statistics",
-      "link": "https://openalex.org/W1484864026",
+      "nombre": "An introduction to probability theory and its applications",
+      "link": "https://openalex.org/W2751862591",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Global cancer statistics",
-      "link": "https://openalex.org/W2106787323",
+      "nombre": "Probability, Random Variables, and Stochastic Processes.",
+      "link": "https://openalex.org/W1667165204",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries",
-      "link": "https://openalex.org/W3128646645",
+      "nombre": "Convergence of Probability Measures",
+      "link": "https://openalex.org/W2802739963",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries",
-      "link": "https://openalex.org/W2889646458",
+      "nombre": "On Estimation of a Probability Density Function and Mode",
+      "link": "https://openalex.org/W2118020555",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Discovering Statistics Using SPSS",
-      "link": "https://openalex.org/W1573234480",
+      "nombre": "A method for estimating the probability of adverse drug reactions",
+      "link": "https://openalex.org/W2067978628",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Nonparametric Statistics for the Behavioral Sciences",
-      "link": "https://openalex.org/W2002664886",
+      "nombre": "Availability: A heuristic for judging frequency and probability",
+      "link": "https://openalex.org/W2035782089",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Global cancer statistics, 2012",
-      "link": "https://openalex.org/W2917837889",
+      "nombre": "Probability and Measure.",
+      "link": "https://openalex.org/W2056099894",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Discovering Statistics Using Ibm Spss Statistics",
-      "link": "https://openalex.org/W2249595199",
+      "nombre": "The Theory of Probability",
+      "link": "https://openalex.org/W2126163471",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Cancer statistics, 2019",
-      "link": "https://openalex.org/W2911188335",
+      "nombre": "Convergence of Probability Measures",
+      "link": "https://openalex.org/W4299533062",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Cancer statistics, 2020",
-      "link": "https://openalex.org/W2999417355",
+      "nombre": "Probability theory",
+      "link": "https://openalex.org/W2798461040",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Principles and procedures of statistics.",
-      "link": "https://openalex.org/W1992897439",
+      "nombre": "Probability Inequalities for sums of Bounded Random Variables",
+      "link": "https://openalex.org/W2103012681",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Modern Applied Statistics with S",
-      "link": "https://openalex.org/W1513618424",
+      "nombre": "Introduction to Probability Models.",
+      "link": "https://openalex.org/W2322524800",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Cancer statistics, 2022",
-      "link": "https://openalex.org/W4206841660",
+      "nombre": "Probability Theory",
+      "link": "https://openalex.org/W4299551239",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     },
     {
-      "nombre": "Cancer Statistics, 2021",
-      "link": "https://openalex.org/W3119005666",
+      "nombre": "Subjective probability: A judgment of representativeness",
+      "link": "https://openalex.org/W2016377072",
       "pdf": null,
       "fuente": "openalex",
-      "dominio": "statistics"
-    },
-    {
-      "nombre": "Cancer statistics, 2023",
-      "link": "https://openalex.org/W4315754639",
-      "pdf": null,
-      "fuente": "openalex",
-      "dominio": "statistics"
+      "dominio": "probability"
     }
   ]
 }
