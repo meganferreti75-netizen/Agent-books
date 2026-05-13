@@ -643,6 +643,111 @@
       "pdf": null,
       "fuente": "openalex",
       "dominio": "geometry"
+    },
+    {
+      "nombre": "Consensus Problems in Networks of Agents With Switching Topology and Time-Delays",
+      "link": "https://openalex.org/W2107396783",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Predicting transmembrane protein topology with a hidden markov model: application to complete genomes11Edited by F. Cohen",
+      "link": "https://openalex.org/W2152770371",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Multilevel inverters: a survey of topologies, controls, and applications",
+      "link": "https://openalex.org/W2160830391",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Algebraic topology",
+      "link": "https://openalex.org/W3040586665",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology Optimization: Theory, Methods, and Applications",
+      "link": "https://openalex.org/W1575923498",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Consensus seeking in multiagent systems under dynamically changing interaction topologies",
+      "link": "https://openalex.org/W2099175737",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "On power-law relationships of the Internet topology",
+      "link": "https://openalex.org/W1976969221",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Toward Defining the Course of Evolution: Minimum Change for a Specific Tree Topology",
+      "link": "https://openalex.org/W2163892779",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Generating optimal topologies in structural design using a homogenization method",
+      "link": "https://openalex.org/W2069697210",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology of cosmic domains and strings",
+      "link": "https://openalex.org/W2142768579",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Algebraic Topology",
+      "link": "https://openalex.org/W3107709063",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology optimization approaches",
+      "link": "https://openalex.org/W2220999736",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Evolving Neural Networks through Augmenting Topologies",
+      "link": "https://openalex.org/W2111935653",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "Topology and data",
+      "link": "https://openalex.org/W1991566301",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
+    },
+    {
+      "nombre": "A level set method for structural topology optimization",
+      "link": "https://openalex.org/W2132034927",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "topology"
     }
   ],
   "fisica": [
