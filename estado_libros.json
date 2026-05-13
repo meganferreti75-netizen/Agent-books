@@ -1,8 +1,432 @@
 {
-  "matematicas": [],
-  "fisica": [],
-  "quimica": [],
-  "biologia": [],
+  "matematicas": [
+    {
+      "nombre": "Invariant theory and coefficient algebras of Lie algebras",
+      "link": "http://arxiv.org/abs/2411.11095v3",
+      "pdf": "https://arxiv.org/pdf/2411.11095v3",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Categorical Constructions for Hopf Algebras",
+      "link": "http://arxiv.org/abs/0905.2613v3",
+      "pdf": "https://arxiv.org/pdf/0905.2613v3",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Deformation of algebras over the Landweber-Novikov algebra",
+      "link": "http://arxiv.org/abs/math/0501518v2",
+      "pdf": "https://arxiv.org/pdf/math/0501518v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Crossed product of Hopf algebras",
+      "link": "http://arxiv.org/abs/1203.2454v2",
+      "pdf": "https://arxiv.org/pdf/1203.2454v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Deformation of dual Leibniz algebra morphisms",
+      "link": "http://arxiv.org/abs/math/0602046v1",
+      "pdf": "https://arxiv.org/pdf/math/0602046v1",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Classifying complements for Hopf algebras and Lie algebras",
+      "link": "http://arxiv.org/abs/1205.6564v5",
+      "pdf": "https://arxiv.org/pdf/1205.6564v5",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Quantizations of generalized-Witt algebra and of Jacobson-Witt algebra in the modular case",
+      "link": "http://arxiv.org/abs/math/0602281v5",
+      "pdf": "https://arxiv.org/pdf/math/0602281v5",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Orbifolds of Gaiotto-Rapčák $Y$-algebras",
+      "link": "http://arxiv.org/abs/2208.10037v2",
+      "pdf": "https://arxiv.org/pdf/2208.10037v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Classification of PM Quiver Hopf Algebras",
+      "link": "http://arxiv.org/abs/math/0410150v15",
+      "pdf": "https://arxiv.org/pdf/math/0410150v15",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Connected Hopf Algebras of Dimension $p^2$",
+      "link": "http://arxiv.org/abs/1208.2280v2",
+      "pdf": "https://arxiv.org/pdf/1208.2280v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Structure of semisimple Hopf algebras of dimension $p^2q^2$",
+      "link": "http://arxiv.org/abs/1009.3541v2",
+      "pdf": "https://arxiv.org/pdf/1009.3541v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Left-symmetric Algebras From Linear Functions",
+      "link": "http://arxiv.org/abs/math/0406325v1",
+      "pdf": "https://arxiv.org/pdf/math/0406325v1",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "A note on Rees algebras and the MFMC property",
+      "link": "http://arxiv.org/abs/math/0511307v2",
+      "pdf": "https://arxiv.org/pdf/math/0511307v2",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Doubling pre-Lie algebra of rooted trees",
+      "link": "http://arxiv.org/abs/1912.05787v1",
+      "pdf": "https://arxiv.org/pdf/1912.05787v1",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "Some interpretations for algebraic invariants of edge ideals of hypergraphs via combinatorial invariants",
+      "link": "http://arxiv.org/abs/2001.09176v1",
+      "pdf": "https://arxiv.org/pdf/2001.09176v1",
+      "fuente": "arxiv",
+      "dominio": "algebra"
+    },
+    {
+      "nombre": "The chemistry of graphene oxide",
+      "link": "https://openalex.org/W2135479172",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Points of convergence -- music meets mathematics",
+      "link": "http://arxiv.org/abs/2309.06595v1",
+      "pdf": "https://arxiv.org/pdf/2309.06595v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Quantum GestART: Identifying and Applying Correlations between Mathematics, Art, and Perceptual Organization",
+      "link": "http://arxiv.org/abs/2001.00001v2",
+      "pdf": "https://arxiv.org/pdf/2001.00001v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Bridging knowing and proving in mathematics An essay from a didactical perspective",
+      "link": "http://arxiv.org/abs/1403.6926v1",
+      "pdf": "https://arxiv.org/pdf/1403.6926v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Licensing the Mizar Mathematical Library",
+      "link": "http://arxiv.org/abs/1107.3212v1",
+      "pdf": "https://arxiv.org/pdf/1107.3212v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "mizar-items: Exploring fine-grained dependencies in the Mizar Mathematical Library",
+      "link": "http://arxiv.org/abs/1107.4721v2",
+      "pdf": "https://arxiv.org/pdf/1107.4721v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Constructive mathematics and teaching",
+      "link": "http://arxiv.org/abs/2305.19882v1",
+      "pdf": "https://arxiv.org/pdf/2305.19882v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "The Call of Mathematics",
+      "link": "http://arxiv.org/abs/0705.4123v1",
+      "pdf": "https://arxiv.org/pdf/0705.4123v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Advanced Mathematical Business Strategy Formulation Design",
+      "link": "http://arxiv.org/abs/1908.06890v3",
+      "pdf": "https://arxiv.org/pdf/1908.06890v3",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Opportunities at the Mathematics/Future Cities Interface",
+      "link": "http://arxiv.org/abs/1409.1831v1",
+      "pdf": "https://arxiv.org/pdf/1409.1831v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Is the study of Indigenous mathematics ill-directed or beneficial?",
+      "link": "http://arxiv.org/abs/2212.02778v1",
+      "pdf": "https://arxiv.org/pdf/2212.02778v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Mathematical Analysis, Forecasting and Optimal Control of HIV/AIDS Spatiotemporal Transmission with a Reaction Diffusion SICA Model",
+      "link": "http://arxiv.org/abs/2207.02527v1",
+      "pdf": "https://arxiv.org/pdf/2207.02527v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Some pros and cons of implementing parallel and block teachings for mathematics modules",
+      "link": "http://arxiv.org/abs/1810.07365v1",
+      "pdf": "https://arxiv.org/pdf/1810.07365v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Tension between Intuitive Infinitesimals and Formal Mathematical Analysis",
+      "link": "http://arxiv.org/abs/1110.5747v1",
+      "pdf": "https://arxiv.org/pdf/1110.5747v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    }
+  ],
+  "fisica": [
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2132905138",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "CRC Handbook of Chemistry and Physics",
+      "link": "https://openalex.org/W2964344211",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Handbook of chemistry and physics",
+      "link": "https://openalex.org/W2739616593",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "A moonshine dialogue in mathematical physics",
+      "link": "http://arxiv.org/abs/1503.02677v2",
+      "pdf": "https://arxiv.org/pdf/1503.02677v2",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    },
+    {
+      "nombre": "Idempotent and tropical mathematics and problems of mathematical physics (Volume I)",
+      "link": "http://arxiv.org/abs/0710.0377v1",
+      "pdf": "https://arxiv.org/pdf/0710.0377v1",
+      "fuente": "arxiv",
+      "dominio": "mathematics"
+    }
+  ],
+  "quimica": [
+    {
+      "nombre": "Advanced inorganic chemistry",
+      "link": "https://openalex.org/W1523417784",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of Polymer Chemistry.",
+      "link": "https://openalex.org/W2314659927",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Principles of polymer chemistry",
+      "link": "https://openalex.org/W1505352099",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Physical chemistry of surfaces",
+      "link": "https://openalex.org/W2062070676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Supramolecular Chemistry",
+      "link": "https://openalex.org/W29179573",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Chemistry with ADF",
+      "link": "https://openalex.org/W2150345533",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "The Chemistry and Applications of Metal-Organic Frameworks",
+      "link": "https://openalex.org/W2141939342",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Green Chemistry: Theory and Practice",
+      "link": "https://openalex.org/W1523818626",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Click Chemistry: Diverse Chemical Function from a Few Good Reactions",
+      "link": "https://openalex.org/W4256503849",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules",
+      "link": "https://openalex.org/W2593436234",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    },
+    {
+      "nombre": "Fluorine in medicinal chemistry",
+      "link": "https://openalex.org/W2116087305",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "chemistry"
+    }
+  ],
+  "biologia": [
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W1898014694",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Power failure: why small sample size undermines the reliability of neuroscience",
+      "link": "https://openalex.org/W2105824687",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience",
+      "link": "https://openalex.org/W4388250061",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Dynamical Systems in Neuroscience",
+      "link": "https://openalex.org/W1576838367",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Affective Neuroscience: The Foundations of Human and Animal Emotions",
+      "link": "https://openalex.org/W1849553904",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Network neuroscience",
+      "link": "https://openalex.org/W4211091012",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Representational similarity analysis – connecting the branches of systems neuroscience",
+      "link": "https://openalex.org/W2160654481",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "A social neuroscience perspective on adolescent risk-taking",
+      "link": "https://openalex.org/W2088180824",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems",
+      "link": "https://openalex.org/W1512746852",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The Cognitive neurosciences",
+      "link": "https://openalex.org/W3141850914",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "The neuroscience of mindfulness meditation",
+      "link": "https://openalex.org/W2026267776",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Computational principles of movement neuroscience",
+      "link": "https://openalex.org/W1779974355",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "New cognitive neurosciences",
+      "link": "https://openalex.org/W2600536710",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Circular analysis in systems neuroscience: the dangers of double dipping",
+      "link": "https://openalex.org/W2015866962",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    },
+    {
+      "nombre": "Philosophical Foundations of Neuroscience",
+      "link": "https://openalex.org/W2035697676",
+      "pdf": null,
+      "fuente": "openalex",
+      "dominio": "neuroscience"
+    }
+  ],
   "filosofia": [],
   "arte": [],
   "ingenieria": [],
