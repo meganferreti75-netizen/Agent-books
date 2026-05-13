@@ -4939,6 +4939,14 @@
     {
       "nombre": "The winning property of mixed badly approximable numbers",
       "link": "http://arxiv.org/abs/1212.6584v2"
+    },
+    {
+      "nombre": "Tracking Naturalistic Linguistic Predictions with Deep Neural Language Models",
+      "link": "http://arxiv.org/abs/1909.04400v1"
+    },
+    {
+      "nombre": "Ordinal Characterization of Similarity Judgments",
+      "link": "http://arxiv.org/abs/2310.07543v5"
     }
   ],
   "fisica": [
@@ -5433,6 +5441,10 @@
     {
       "nombre": "Open statistical issues in particle physics",
       "link": "http://arxiv.org/abs/0811.1663v1"
+    },
+    {
+      "nombre": "Information thermodynamics: from physics to neuroscience",
+      "link": "http://arxiv.org/abs/2409.17599v1"
     }
   ],
   "quimica": [
@@ -5881,6 +5893,74 @@
     {
       "nombre": "From Statistical Relational to Neurosymbolic Artificial Intelligence: a Survey",
       "link": "http://arxiv.org/abs/2108.11451v4"
+    },
+    {
+      "nombre": "Technological Competence is a Precondition for Effective Implementation of Virtual Reality Head Mounted Displays in Human Neuroscience: A Technological Review and Meta-analysis",
+      "link": "http://arxiv.org/abs/2101.08123v1"
+    },
+    {
+      "nombre": "Separating minimal from radical embodied cognitive neuroscience",
+      "link": "http://arxiv.org/abs/2410.01830v1"
+    },
+    {
+      "nombre": "What can a mathematician do in neuroscience?",
+      "link": "http://arxiv.org/abs/1405.4239v1"
+    },
+    {
+      "nombre": "Clarifying the conceptual dimensions of representation in neuroscience",
+      "link": "http://arxiv.org/abs/2403.14046v5"
+    },
+    {
+      "nombre": "The extent and drivers of gender imbalance in neuroscience reference lists",
+      "link": "http://arxiv.org/abs/2001.01002v2"
+    },
+    {
+      "nombre": "Launching Your VR Neuroscience Laboratory",
+      "link": "http://arxiv.org/abs/2405.13171v1"
+    },
+    {
+      "nombre": "Causality in cognitive neuroscience: concepts, challenges, and distributional robustness",
+      "link": "http://arxiv.org/abs/2002.06060v2"
+    },
+    {
+      "nombre": "Validation of the Virtual Reality Neuroscience Questionnaire: Maximum Duration of Immersive Virtual Reality Sessions Without the Presence of Pertinent Adverse Symptomatology",
+      "link": "http://arxiv.org/abs/2101.08146v1"
+    },
+    {
+      "nombre": "Definition of Cybernetical Neuroscience",
+      "link": "http://arxiv.org/abs/2409.16314v1"
+    },
+    {
+      "nombre": "A Paradigm Shift in Human Neuroscience Research: Progress, Prospects, and a Proof of Concept for Population Neuroscience",
+      "link": "http://arxiv.org/abs/2212.04195v3"
+    },
+    {
+      "nombre": "Teaching Computational Neuroscience",
+      "link": "http://arxiv.org/abs/1412.5909v2"
+    },
+    {
+      "nombre": "A learning gap between neuroscience and reinforcement learning",
+      "link": "http://arxiv.org/abs/2104.10995v3"
+    },
+    {
+      "nombre": "Is neuroscience facing up to statistical power?",
+      "link": "http://arxiv.org/abs/1701.01219v1"
+    },
+    {
+      "nombre": "A Philosophical Understanding of Representation for Neuroscience",
+      "link": "http://arxiv.org/abs/2102.06592v2"
+    },
+    {
+      "nombre": "An introduction to reinforcement learning for neuroscience",
+      "link": "http://arxiv.org/abs/2311.07315v3"
+    },
+    {
+      "nombre": "Network models in neuroscience",
+      "link": "http://arxiv.org/abs/1807.11935v1"
+    },
+    {
+      "nombre": "BrainKnow -- Extracting, Linking, and Synthesizing Neuroscience Knowledge",
+      "link": "http://arxiv.org/abs/2403.04346v5"
     }
   ],
   "filosofia": [],
